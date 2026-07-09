@@ -1,33 +1,31 @@
-<p align="center">
-  <h1 align="center">✨ HEMANG LAKHADIYA ✨</h1>
-  <p align="center"><b>Full Stack Developer | Web & Android Architect</b></p>
-</p>
+<div align="center">
+  <h1>⚡ HEMANG LAKHADIYA ⚡</h1>
+  <p><b>Full Stack Developer | Web & Android Architect</b></p>
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Android+Architect;MERN+Stack+Expert;MCA+Graduate+Student" alt="Typing SVG" />
-</p>
 
-<p align="center">
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
 ### 👤 About Me
 
-I am a practical, results-driven Full Stack Developer and computer science student[cite: 1]. I specialize in cross-platform mobile ecosystems, dynamic web applications, scalable backend systems, and database optimization workflows[cite: 1].
+I am a practical, results-driven Full Stack Developer and computer science student[cite: 1]. I specialize in cross-platform mobile ecosystem architectures, dynamic web applications, scalable backend systems, and database optimization workflows[cite: 1].
 
-- 🎓 **Education:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
-- 📍 **Location:** Rajkot, Gujarat, India[cite: 1]
-- 🏆 **Leadership:** 4-time Hackathon Competitor & Designated Team Leader across national & collegiate levels[cite: 1].
+* **🎓 Education:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
+* **📍 Location:** Rajkot, Gujarat, India[cite: 1]
+* **🏆 Leadership:** 4-time Hackathon Competitor & Designated Team Leader across national & collegiate levels[cite: 1].
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</p>
+</div>
 
 ---
 
@@ -55,24 +53,26 @@ I am a practical, results-driven Full Stack Developer and computer science stude
 
 ### 📊 Metric Analytics Dashboards
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemang2601&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2601&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=dark&hide_border=true" width="97%" alt="Commit Streak" />
-</p>
+</div>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lakhadiyahemang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
