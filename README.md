@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=220&section=header&text=Hemang%20Lakhadiya&fontSize=45&animation=fadeIn&fontColor=58a6ff" width="100%" alt="Header Banner" />
+  <h1 align="center">✨ HEMANG LAKHADIYA ✨</h1>
+  <p align="center"><b>Full Stack Developer | Web & Android Architect</b></p>
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ### 👤 About Me
 
-I am a practical, results-driven Full Stack Developer and computer science student[cite: 1]. I specialize in cross-platform mobile ecosystem architectures, dynamic web applications, scalable backend systems, and database optimization workflows[cite: 1].
+I am a practical, results-driven Full Stack Developer and computer science student[cite: 1]. I specialize in cross-platform mobile ecosystems, dynamic web applications, scalable backend systems, and database optimization workflows[cite: 1].
 
 - 🎓 **Education:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
 - 📍 **Location:** Rajkot, Gujarat, India[cite: 1]
@@ -36,7 +37,7 @@ I am a practical, results-driven Full Stack Developer and computer science stude
 | :--- | :--- |
 | **MERN Stack** | <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" /> |
 | **Backend & APIs** | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=google-cloud&logoColor=white" /> |
-| **Mobile ecosystems** | <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> |
+| **Mobile Ecosystems** | <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> |
 | **Frontend UI** | <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" /> |
 | **Databases** | <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" /> |
 
