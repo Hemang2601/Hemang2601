@@ -8,23 +8,22 @@
     </div>
   </div>
 
-  <!-- Profile Metrics Matrix -->
   <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
-### 👤 Professional Profile
+### 👤 Profile
 
-I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures.
+I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development[cite: 1]. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures[cite: 1].
 
-* 🎓 **Academic Path:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83
-* 📍 **Base Location:** Rajkot, Gujarat, India
-* 🏆 **Hackathons:** 4-Time Competitive Hackathon Participant & Designated Team Leader.
+* 🎓 Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
+* 📍 Rajkot, Gujarat, India[cite: 1]
+* 🏆 4-Time Competitive Hackathon Participant & Designated Team Leader[cite: 1].
 
 ---
 
-### 🏆 Achievement Showcase
+### 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
@@ -32,77 +31,40 @@ I am a practical, results-driven Full Stack Developer and computer science stude
 
 ---
 
-### 🛠️ Core Technological Ecosystem
+### 🛠️ Ecosystem
 
-<div style="display: grid; gap: 16px; font-family: system-ui, sans-serif; margin-bottom: 25px;">
-
-  <!-- MERN Card -->
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">⚛️ MERN Stack Expert</div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    </div>
-  </div>
-
-  <!-- Backend Card -->
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">⚙️ Backend & API Design</div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
-    </div>
-  </div>
-
-  <!-- Mobile Card -->
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">📱 Mobile Architectures</div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    </div>
-  </div>
-
-  <!-- Frontend Card -->
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">🎨 UI/UX Frontends</div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </div>
-  </div>
-
-  <!-- Database Card -->
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">🗄️ Relational Systems</div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </div>
-  </div>
-
+<div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />[cite: 1]
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1]
 </div>
 
 ---
 
-### 📁 Production Infrastructure Projects
+### 📁 Deployments
 
-* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices.
-* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging.
-* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps.
-* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations.
-* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices.
+* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices[cite: 1].
+* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging[cite: 1].
+* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps[cite: 1].
+* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations[cite: 1].
+* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices[cite: 1].
 
 ---
 
-### 📊 Engineering Metrics & Analytics
+### 📊 Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=dark&hide_border=true" width="100%" alt="Commit Activity Streak Tracker" />
@@ -110,7 +72,7 @@ I am a practical, results-driven Full Stack Developer and computer science stude
 
 ---
 
-### 🤝 Strategic Connections
+### 🤝 Contact
 
 <div align="left">
   <a href="https://linkedin.com" target="_blank" style="margin-right: 8px; text-decoration: none;">
