@@ -15,11 +15,11 @@
 
 ### 👤 Profile
 
-I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development[cite: 1]. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures[cite: 1].
+I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures.
 
-* 🎓 Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
-* 📍 Rajkot, Gujarat, India[cite: 1]
-* 🏆 4-Time Competitive Hackathon Participant & Designated Team Leader[cite: 1].
+* 🎓 Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83
+* 📍 Rajkot, Gujarat, India
+* 🏆 4-Time Competitive Hackathon Participant & Designated Team Leader.
 
 ---
 
@@ -38,29 +38,29 @@ I am a practical, results-driven Full Stack Developer and computer science stude
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />[cite: 1]
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
 
 ### 📁 Deployments
 
-* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices[cite: 1].
-* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging[cite: 1].
-* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps[cite: 1].
-* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations[cite: 1].
-* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices[cite: 1].
+* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices.
+* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging.
+* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps.
+* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations.
+* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices.
 
 ---
 
