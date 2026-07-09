@@ -16,11 +16,11 @@
 
 ### 👤 Professional Profile
 
-I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development[cite: 1]. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures[cite: 1].
+I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development. I possess hands-on experience engineering high-reliability web systems, responsive mobile applications, and custom software architectures.
 
-* 🎓 **Academic Path:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
-* 📍 **Base Location:** Rajkot, Gujarat, India[cite: 1]
-* 🏆 **Hackathons:** 4-Time Competitive Hackathon Participant & Designated Team Leader[cite: 1].
+* 🎓 **Academic Path:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83
+* 📍 **Base Location:** Rajkot, Gujarat, India
+* 🏆 **Hackathons:** 4-Time Competitive Hackathon Participant & Designated Team Leader.
 
 ---
 
@@ -51,9 +51,9 @@ I am a practical, results-driven Full Stack Developer and computer science stude
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">⚙️ Backend & API Design</div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />[cite: 1]
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
     </div>
   </div>
 
@@ -61,10 +61,10 @@ I am a practical, results-driven Full Stack Developer and computer science stude
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">📱 Mobile Architectures</div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />[cite: 1]
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     </div>
   </div>
 
@@ -72,11 +72,11 @@ I am a practical, results-driven Full Stack Developer and computer science stude
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">🎨 UI/UX Frontends</div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />[cite: 1]
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />[cite: 1]
-      <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />[cite: 1]
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </div>
   </div>
 
@@ -84,7 +84,7 @@ I am a practical, results-driven Full Stack Developer and computer science stude
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <div style="color: #38bdf8; font-weight: 800; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">🗄️ Relational Systems</div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />[cite: 1]
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </div>
   </div>
 
@@ -94,11 +94,11 @@ I am a practical, results-driven Full Stack Developer and computer science stude
 
 ### 📁 Production Infrastructure Projects
 
-* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices[cite: 1].
-* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging[cite: 1].
-* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps[cite: 1].
-* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations[cite: 1].
-* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices[cite: 1].
+* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production storefront with integrated Razorpay logic, safe transactional handling, Google OAuth verification gates, and optimized runtime active inventory matrices.
+* **🧮 Native Financial Calculator Engine:** Multi-variable native Android Java application engineered with background-threaded processing loops to run intensive multi-variable calculations instantly without UI lagging.
+* **🚖 Automated Fleet Taxi Dispatcher:** Logistics web dashboard with custom relational query architectures to schedule dispatches and auto-prevent driver shift assignment overlaps.
+* **⚡ Mobile Field Invoicing Engine:** Cross-platform Flutter/Dart client implementation displaying customer ledgers paired with safe local caching strategies for seamless offline field billing operations.
+* **📅 Matrix Timetable Optimization Suite:** High-performance processing scheduler auto-generating conflict-free multi-department academic timetables via optimized server logic matrices.
 
 ---
 
