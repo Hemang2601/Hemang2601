@@ -1,67 +1,77 @@
-# Hi there, I'm Hemang Lakhadiya! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=220&section=header&text=Hemang%20Lakhadiya&fontSize=45&animation=fadeIn&fontColor=58a6ff" width="100%" alt="Header Banner" />
+</p>
 
-### Full Stack Developer | Web & Android Architect 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Android+Architect;MERN+Stack+Expert;MCA+Graduate+Student" alt="Typing SVG" />
+</p>
 
-I am a practical, results-driven Full Stack Developer and computer science student currently focused on cross-platform Flutter application development. I have hands-on experience building reliable web systems, interactive mobile software, and custom applications. 
-
-- 🎓 **Education:** Pursuing Master of Computer Applications (MCA) at Marwadi University (Expected 2027)
-- 📍 **Location:** Rajkot, Gujarat, India
-- 💡 **Passionate about:** Scalable system design, database optimization, and cross-platform app architecture.
-- 🏆 **Leadership:** 4-time Hackathon Competitor & designated Team Leader at national and collegiate levels.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Backend & APIs
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-#### 📱 Mobile & Cross-Platform
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-#### 🌐 Frontend & UI
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🗄️ Database & Optimization
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-### 📁 Featured Projects
+### 👤 About Me
 
-*   **🛒 Shivashine Jewellery (E-Commerce Platform):** Built a production-ready store using Laravel, Tailwind CSS, Razorpay API, and Google OAuth with an optimized product catalog and inventory adjustments.
-*   **🧮 Android Financial Calculator & Cognitive Engine:** Created a native Java Android application with multi-variable math algorithms and background threading for zero-lag calculations.
-*   **🚖 Automated Taxi Service Manager:** Designed a full-stack fleet web app with Laravel and MySQL to handle dynamic fare calculations and real-time dispatches.
-*   **⚡ Shree Shakti Electric Service:** Developed a responsive mobile billing app using Flutter and Dart featuring client ledger tracking and offline data handling.
-*   **📅 Automated Class Schedule Generator:** Programmed a matrix logic scheduling engine using Laravel to auto-generate conflict-free college timetables.
+I am a practical, results-driven Full Stack Developer and computer science student[cite: 1]. I specialize in cross-platform mobile ecosystem architectures, dynamic web applications, scalable backend systems, and database optimization workflows[cite: 1].
 
----
-
-### 🏆 Hackathons & Leadership
-*   Led code architecture and project planning during intense 24-to-36-hour sprint cycles across **4 different hackathons**.
-*   Handled rapid-prototyping workflows to efficiently build, test, and launch fully operational Minimum Viable Products (MVPs).
+- 🎓 **Education:** Master of Computer Applications (MCA) at Marwadi University (Expected 2027) | Current CGPA: 8.83[cite: 1]
+- 📍 **Location:** Rajkot, Gujarat, India[cite: 1]
+- 🏆 **Leadership:** 4-time Hackathon Competitor & Designated Team Leader across national & collegiate levels[cite: 1].
 
 ---
 
-### 🤝 Connect with me
+### 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhadiyahemang@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠️ Technical Toolkit
+
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **MERN Stack** | <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" /> |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=google-cloud&logoColor=white" /> |
+| **Mobile ecosystems** | <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> |
+| **Frontend UI** | <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" /> |
+| **Databases** | <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" /> |
+
+---
+
+### 📁 Featured Production Deployments
+
+* **🛒 Shivashine Jewellery (E-Commerce Platform):** Production-ready storefront featuring Razorpay integrations, Google OAuth, and optimized active inventory indexing[cite: 1].
+* **🧮 Financial Calculator & Cognitive Engine:** Native Java Android software utilizing multithreaded calculation architectures to parse multi-variable algorithmic loops with zero UI latency[cite: 1].
+* **🚖 Automated Taxi Service Manager:** Logistics orchestration engine built with Laravel and MySQL optimizing vehicle dispatch matrices and preventing overlap exceptions[cite: 1].
+* **⚡ Shree Shakti Electric Service:** Mobile invoicing framework built on Flutter and Dart supporting localized transactional ledger caching for offline field operations[cite: 1].
+* **📅 Automated Class Schedule Generator:** Matrix-logic timetable rendering engine built using server-optimized processing loops to map completely conflict-free academic sessions[cite: 1].
+
+---
+
+### 📊 Metric Analytics Dashboards
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemang2601&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2601&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=dark&hide_border=true" width="97%" alt="Commit Streak" />
+</p>
+
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&count_private=true" alt="Hemang's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial" alt="Hemang's Streak Stats" width="48%" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lakhadiyahemang@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
