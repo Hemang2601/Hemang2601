@@ -1,56 +1,53 @@
-<!-- HTS - HEMANG Development Studio | Premium GitHub Profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=HTS%20%7C%20HEMANG%20Development%20Studio&fontSize=35&fontAlignY=40&fontColor=ffffff&descAlignY=60&descAlign=60" width="100%" alt="Header Wave"/>
+<!-- ANIMATED TECH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=120&text=HEMANG%20LAKHADIYA&fontColor=38bdf8&fontSize=45&desc=Software%20Engineer%20%7C%20System%20Architect&descColor=8b949e&descSize=16&animation=twinkling" width="100%" alt="Header" />
 
-# ⚡ HEMANG LAKHADIYA
+<!-- ANIMATED TERMINAL TYPING -->
+<a href="https://github.com/Hemang2601">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=>_+Initialize+Full_Stack_Architecture_();>_+Compile+Cross_Platform_Flutter_Apps_();>_+Deploy+Scalable_Backend_Systems_();>_+Execute+Enterprise_Level_Solutions_()" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Hemang2601">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Flutter+Developer;MERN+Stack+Developer;Laravel+Developer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ANIMATED CODING GIF -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/8621430032f6b4cc5840d4fdbba2ea6a77d1ca47/Coding/Matrix-effect.gif" width="100%" height="100" style="object-fit: cover; border-radius: 8px;" alt="Matrix Code Animation" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated Developer coding GIF" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
-
-<br/><br/>
-
-> **"Clean code, scalable architecture, and user-focused experiences are the foundation of every great product."**
+<br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hemang2601?color=38BDF8&style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hemang2601?color=38BDF8&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/Security-Clearance_Level_Dev-38bdf8?style=for-the-badge&logo=gnupg&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=38bdf8&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile Views" />
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" alt="Divider" />
 
 </div>
 
 ---
 
-### 👨‍💻 ABOUT ME
+### ⚙️ `~/system/user/about_me`
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3>🚀 The Developer</h3>
-        I am a highly skilled Software Engineer and Full Stack Architect dedicated to building enterprise-grade applications. I specialize in bridging the gap between elegant user interfaces and robust, highly scalable backend systems across web and mobile platforms.
+        <h3><code>>_ ARCHITECT_PROFILE</code></h3>
+        I am a <b>Software Engineer</b> focused on designing scalable architectures, developing high-performance APIs, and building fluid cross-platform applications. I bridge complex backend logic with clean frontend execution.
         <br><br>
-        🔭 <b>Current Focus:</b> Advanced System Design, Cloud Deployments & Microservices<br>
-        🎯 <b>Career Objective:</b> To architect world-class digital products and contribute meaningfully to open-source ecosystems.<br>
-        💡 <b>Philosophy:</b> Solving complex engineering problems with simple, elegant code.
+        <b>Core Competencies:</b><br>
+        &nbsp; ⚡ Microservices & Monolithic Architecture<br>
+        &nbsp; ⚡ Relational & NoSQL Database Optimization<br>
+        &nbsp; ⚡ Hardware-Native Mobile Integrations<br>
+        &nbsp; ⚡ Agile Team Leadership & CI/CD Pipelines
       </td>
       <td width="50%" valign="top">
-        <h3>🎓 Academics & Details</h3>
-        🎓 <b>Education:</b> Master of Computer Applications (MCA)<br>
-        🏛 <b>Institution:</b> Marwadi University<br>
-        📈 <b>Current CGPA:</b> 8.83<br>
-        ⏳ <b>Expected Graduation:</b> 2027<br>
-        📍 <b>Location:</b> Rajkot, Gujarat, India<br>
-        📧 <b>Contact:</b> lakhadiyahemang@gmail.com<br>
-        🟢 <b>Availability:</b> Open for Collaborations & Opportunities
+        <h3><code>>_ RUNTIME_ENVIRONMENT</code></h3>
+        <b>Edu:</b> Master of Computer Applications (MCA)<br>
+        <b>Institute:</b> Marwadi University<br>
+        <b>Metrics:</b> CGPA: 8.83 | Grad: 2027<br>
+        <b>Base_Dir:</b> Rajkot, Gujarat, India<br>
+        <b>Network:</b> <a href="mailto:lakhadiyahemang@gmail.com">lakhadiyahemang@gmail.com</a>
+        <br><br>
+        <b>Active_Threads:</b><br>
+        <code>[█████████▒]</code> 90% Advanced System Design<br>
+        <code>[████████░░]</code> 80% AI/LLM Integration
       </td>
     </tr>
   </table>
@@ -58,213 +55,125 @@
 
 ---
 
-### 🛠️ ENTERPRISE TECH STACK
+### 💻 `~/system/tech_stack/dependencies`
 
 <div align="center">
-
-#### 🖥️ Frontend Architecture
-<img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" />
-<img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/Redux-18181B?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
-<img src="https://img.shields.io/badge/Material_UI-18181B?style=for-the-badge&logo=mui&logoColor=007FFF" alt="Material UI" />
-<img src="https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-
-#### ⚙️ Backend & APIs
-<img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/REST_API-18181B?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/JWT_Auth-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-#### 📱 Mobile Engineering
-<img src="https://img.shields.io/badge/Flutter-18181B?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-18181B?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-<img src="https://img.shields.io/badge/Android-18181B?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
-<img src="https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-<img src="https://img.shields.io/badge/Kotlin-18181B?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-
-#### 🗄️ Database Systems
-<img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-<img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
-
-#### ☁️ Cloud & Infrastructure
-<img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Netlify-18181B?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-<img src="https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-<img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-
+  <table width="100%">
+    <tr>
+      <th width="25%">Frontend</th>
+      <th width="25%">Backend</th>
+      <th width="25%">Mobile</th>
+      <th width="25%">Data & DevOps</th>
+    </tr>
+    <tr align="center">
+      <td valign="top">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /><br>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" /><br>
+        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📂 FEATURED PROJECTS
+### 📂 `~/deployments/production_builds`
 
 <div align="center">
-
-| Project & Concept | Architecture | Status & Links |
-|:---|:---|:---:|
-| <b>🛒 Shivashine Jewellery</b><br>Production-grade E-Commerce storefront with real-time inventory matrices, Google OAuth, and secure payment handling. | `React` `Node.js` `MongoDB` `Express` | <img src="https://img.shields.io/badge/Live-Production-47A248?style=flat-square" alt="Live"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🚖 Taxi Dispatcher System</b><br>Logistics dashboard utilizing complex relational queries to schedule fleets and prevent driver shift overlaps. | `Laravel` `PHP` `MySQL` `Tailwind` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>⚡ Flutter Invoice App</b><br>Enterprise B2B cross-platform mobile client with local SQLite caching for seamless offline field billing operations. | `Flutter` `Dart` `SQLite` `REST API` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🏢 Enterprise ERP System</b><br>Centralized business resource planner unifying HR, payroll, and CRM data into a high-performance single dashboard. | `MERN Stack` `Redux` `JWT Auth` | <img src="https://img.shields.io/badge/Status-Active_Dev-FF8C00?style=flat-square" alt="Active"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>📅 Timetable Generator</b><br>High-performance logic processor that auto-generates conflict-free multi-department academic timetables instantly. | `Next.js` `TypeScript` `PostgreSQL` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🏥 Hospital Management</b><br>Robust administrative dashboard managing patient records, appointments, and billing with role-based access control. | `PHP` `Laravel` `Bootstrap` `MySQL` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-
+  <table width="100%">
+    <tr>
+      <th width="40%">Project Registry</th>
+      <th width="40%">Architecture & Specs</th>
+      <th width="20%">Status</th>
+    </tr>
+    <tr>
+      <td><b>🛒 Shivashine Jewellery (E-Commerce)</b><br>Production storefront with active cart sessions, secure Razorpay handling, and real-time inventory matrices.</td>
+      <td><code>React</code> <code>Node.js</code> <code>MongoDB</code><br><i>Features:</i> Google OAuth, Payment Gateway, Admin Matrix</td>
+      <td align="center"><img src="https://img.shields.io/badge/Live-Production-38bdf8?style=flat-square" /><br><a href="#"><code>[Source]</code></a></td>
+    </tr>
+    <tr>
+      <td><b>🚖 Automated Fleet Taxi Dispatcher</b><br>Logistics dashboard utilizing relational queries to auto-prevent driver shift assignment overlaps.</td>
+      <td><code>Laravel</code> <code>MySQL</code> <code>Tailwind</code><br><i>Features:</i> Algorithmic Scheduling, Fleet Tracking</td>
+      <td align="center"><img src="https://img.shields.io/badge/Deployed-Stable-2ea043?style=flat-square" /><br><a href="#"><code>[Source]</code></a></td>
+    </tr>
+    <tr>
+      <td><b>⚡ Mobile Field Invoicing Engine</b><br>Cross-platform B2B application with safe local caching strategies for seamless offline field billing.</td>
+      <td><code>Flutter</code> <code>Dart</code> <code>SQLite</code><br><i>Features:</i> Background Sync, Offline-First Logic</td>
+      <td align="center"><img src="https://img.shields.io/badge/Deployed-Stable-2ea043?style=flat-square" /><br><a href="#"><code>[Source]</code></a></td>
+    </tr>
+    <tr>
+      <td><b>📅 Matrix Timetable Optimization</b><br>High-performance processing logic auto-generating conflict-free multi-department academic timetables.</td>
+      <td><code>Next.js</code> <code>PostgreSQL</code> <code>TypeScript</code><br><i>Features:</i> Conflict Resolution Algo, Data Export</td>
+      <td align="center"><img src="https://img.shields.io/badge/Deployed-Stable-2ea043?style=flat-square" /><br><a href="#"><code>[Source]</code></a></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📈 GITHUB ANALYTICS & METRICS
+### 📊 `~/analytics/telemetry_data`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<!-- ANIMATED TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
 
 <br><br>
 
-<a href="https://github.com/Hemang2601">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemang2601&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB&icon_color=38BDF8" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Hemang2601">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2601&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB" width="48%" alt="Top Languages" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hemang2601&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2601&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- ANIMATED STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=transparent&hide_border=true&title_color=38BDF8&text_color=c9d1d9&sideNums=38BDF8&sideLabels=c9d1d9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
 
 <br><br>
 
-<a href="https://github.com/Hemang2601">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB&sideNums=38BDF8&sideLabels=A6ADBB&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
-</a>
-
-<br><br>
-<h3>🐍 Contribution Graph Animation</h3>
-
+<!-- ANIMATED COMMIT SNAKE -->
+<h3><code>>_ INITIALIZE_CONTRIBUTION_SNAKE.sh</code></h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-### 🏆 ACHIEVEMENTS & MILESTONES
+### 🌐 `~/network/establish_connection`
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        🏆 <b>Hackathon Success:</b> 4-Time Competitive Hackathon Participant & Designated Team Leader. <br><br>
-        🎓 <b>Academic Excellence:</b> Maintaining an 8.83 CGPA while pursuing MCA at Marwadi University. <br><br>
-        🚀 <b>Projects Deployed:</b> Successfully architected and deployed 15+ full-stack and mobile applications.
-      </td>
-      <td width="50%">
-        🌟 <b>Open Source:</b> Active contributor and maintainer of high-quality repositories. <br><br>
-        👨‍🏫 <b>Mentorship:</b> Guiding peers in system architecture, Flutter cross-platform logic, and database design. <br><br>
-        💻 <b>Tech Mastery:</b> Mastered 10+ core technologies spanning frontend, backend, and native mobile environments.
-      </td>
-    </tr>
-  </table>
-</div>
+  
+  <code>>_ ping --connect <a href="https://linkedin.com/in/hemang-lakhadiya">LinkedIn</a> | <a href="mailto:lakhadiyahemang@gmail.com">Email</a> | <a href="https://github.com/Hemang2601">GitHub</a> | <a href="#">LeetCode</a> | <a href="#">Portfolio</a></code>
 
----
-
-### 💼 PROFESSIONAL SERVICES
-
-| 🛠️ Domain | 📌 Offerings |
-| :--- | :--- |
-| **🌐 Web Development** | Enterprise Full-Stack Apps, Responsive Landing Pages, Premium Portfolio Websites |
-| **📱 Mobile Development** | Cross-Platform Flutter Apps, Android Native Implementations, API Integrations |
-| **🏢 Business Software** | Custom ERP Systems, CRM Dashboards, Hospital Management, Logistics Platforms |
-| **⚙️ Backend & Architecture**| Custom REST API Development, Secure Authentication, Scalable Database Design |
-| **☁️ DevOps & Cloud** | CI/CD Pipelines, Vercel/Netlify Deployment, Server Maintenance & Technical Support |
-
----
-
-### 🎯 DEVELOPMENT PROCESS & ARCHITECTURE
-
-<div align="center">
-  <h3><code>Research ➡️ Planning ➡️ UI/UX Design ➡️ Development ➡️ Rigorous Testing ➡️ CI/CD Deployment ➡️ Maintenance & Support</code></h3>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🔥 CURRENTLY UPSKILLING IN</h3>
-  <img src="https://img.shields.io/badge/System_Design-18181B?style=flat-square&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-18181B?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Integration-18181B?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-18181B?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=white" />
-</div>
-
----
-
-### 🌎 CONNECT WITH ME
-
-<div align="center">
-  <a href="https://linkedin.com/in/hemang-lakhadiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lakhadiyahemang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
-  </a>
-  <a href="https://github.com/Hemang2601" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-18181B?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
   <br><br>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-18181B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-18181B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
-  </a>
-</div>
-
----
-
-<!-- Optional Dynamic Elements -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=18181b&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true" alt="Dev Joke" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
-  <p style="font-family: monospace; font-size: 14px; color: #888;">
-    <b>Made with ❤️ by HEMANG LAKHADIYA</b><br/>
-    <i>Thank you for visiting! Have a Great Day! 🚀</i>
-  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=60&text=SYSTEM_EXIT(0);&fontColor=38bdf8&fontSize=20&desc=Code_Crafted_By_Hemang_Lakhadiya&descColor=8b949e&descSize=12" width="100%" alt="Footer" />
 </div>
