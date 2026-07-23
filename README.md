@@ -190,7 +190,7 @@
 | **📱 Mobile Development** | Cross-Platform Flutter Apps, Android Native Implementations, API Integrations |
 | **🏢 Business Software** | Custom ERP Systems, CRM Dashboards, Hospital Management, Logistics Platforms |
 | **⚙️ Backend & Architecture**| Custom REST API Development, Secure Authentication, Scalable Database Design |
-| **☁️ DevOps & Cloud** | CI/CD Pipelines, Vercel/Netlify Deployment, Server Maintenance & Technical Support |
+
 
 ---
 
@@ -245,21 +245,6 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
   </a>
 </div>
-
----
-
-<!-- Optional Dynamic Elements -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=true&background_color=18181b&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true" alt="Dev Joke" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
