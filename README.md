@@ -114,14 +114,13 @@
 
 <div align="center">
 
-| Project & Concept | Architecture | Status & Links |
-|:---|:---|:---:|
-| <b>🛒 Shivashine Jewellery</b><br>Production-grade E-Commerce storefront with real-time inventory matrices, Google OAuth, and secure payment handling. | `React` `Node.js` `MongoDB` `Express` | <img src="https://img.shields.io/badge/Live-Production-47A248?style=flat-square" alt="Live"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🚖 Taxi Dispatcher System</b><br>Logistics dashboard utilizing complex relational queries to schedule fleets and prevent driver shift overlaps. | `Laravel` `PHP` `MySQL` `Tailwind` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>⚡ Flutter Invoice App</b><br>Enterprise B2B cross-platform mobile client with local SQLite caching for seamless offline field billing operations. | `Flutter` `Dart` `SQLite` `REST API` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🏢 Enterprise ERP System</b><br>Centralized business resource planner unifying HR, payroll, and CRM data into a high-performance single dashboard. | `MERN Stack` `Redux` `JWT Auth` | <img src="https://img.shields.io/badge/Status-Active_Dev-FF8C00?style=flat-square" alt="Active"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>📅 Timetable Generator</b><br>High-performance logic processor that auto-generates conflict-free multi-department academic timetables instantly. | `Next.js` `TypeScript` `PostgreSQL` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
-| <b>🏥 Hospital Management</b><br>Robust administrative dashboard managing patient records, appointments, and billing with role-based access control. | `PHP` `Laravel` `Bootstrap` `MySQL` | <img src="https://img.shields.io/badge/Status-Completed-02569B?style=flat-square" alt="Completed"><br>[🔗 Demo](https://github.com/Hemang2601) <br> [💻 Code](https://github.com/Hemang2601) |
+| Project & Concept | Architecture |
+|:---|:---|
+| <b>🛒 Shivashine Jewellery</b><br>Production-grade E-Commerce storefront with real-time inventory matrices, Google OAuth, and secure payment handling. | `React` `Node.js` `MongoDB` `Express` |
+| <b>🚖 Taxi Dispatcher System</b><br>Logistics dashboard utilizing complex relational queries to schedule fleets and prevent driver shift overlaps. | `Laravel` `PHP` `MySQL` `Tailwind` |
+| <b>⚡ Flutter Invoice App</b><br>Enterprise B2B cross-platform mobile client with local SQLite caching for seamless offline field billing operations. | `Flutter` `Dart` `SQLite` `REST API` | <
+| <b>🏢 Enterprise ERP System</b><br>Centralized business resource planner unifying HR, payroll, and CRM data into a high-performance single dashboard. | `MERN Stack` `Redux` `JWT Auth` |
+| <b>📅 Timetable Generator</b><br>High-performance logic processor that auto-generates conflict-free multi-department academic timetables instantly. | `Next.js` `TypeScript` `PostgreSQL` |
 
 </div>
 
