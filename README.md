@@ -1,7 +1,7 @@
 <!-- HTS - HEMANG Development Studio | Premium GitHub Profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=%20%7C%20HEMANG%20Development%20Studio&fontSize=35&fontAlignY=40&fontColor=ffffff&descAlignY=60&descAlign=60" width="100%" alt="Header Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=%20HEMANG%20Development%20Studio&fontSize=35&fontAlignY=40&fontColor=ffffff&descAlignY=60&descAlign=60" width="100%" alt="Header Wave"/>
 
 # ⚡ HEMANG LAKHADIYA
 
