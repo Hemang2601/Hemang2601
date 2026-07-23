@@ -130,11 +130,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-
-<br><br>
-
-
 
 <a href="https://github.com/Hemang2601">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB&sideNums=38BDF8&sideLabels=A6ADBB&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
