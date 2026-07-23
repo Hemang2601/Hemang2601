@@ -11,13 +11,11 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated Developer coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated Developer coding GIF" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
 
-<br><br>
+<br/><br/>
 
 > **"Clean code, scalable architecture, and user-focused experiences are the foundation of every great product."**
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hemang2601&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -31,28 +29,28 @@
 
 ---
 
-### 👨‍💻 PROFESSIONAL SUMMARY
+### 👨‍💻 ABOUT ME
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>🚀 The Engineer</h3>
-        I am a Full Stack Architect and Software Engineer specializing in the design and deployment of highly scalable, enterprise-grade applications. I bridge the gap between pixel-perfect user interfaces and robust, microservice-driven backend systems across both web and native mobile platforms.
+        <h3>🚀 The Developer</h3>
+        I am a highly skilled Software Engineer and Full Stack Architect dedicated to building enterprise-grade applications. I specialize in bridging the gap between elegant user interfaces and robust, highly scalable backend systems across web and mobile platforms.
         <br><br>
-        🔭 <b>Current Focus:</b> Advanced System Architecture & Cloud Infrastructure<br>
-        🎯 <b>Objective:</b> To engineer world-class digital products that solve complex business problems.<br>
-        💡 <b>Philosophy:</b> Complex engineering simplified through clean, maintainable, and elegant code.
+        🔭 <b>Current Focus:</b> Advanced System Design, Cloud Deployments & Microservices<br>
+        🎯 <b>Career Objective:</b> To architect world-class digital products and contribute meaningfully to open-source ecosystems.<br>
+        💡 <b>Philosophy:</b> Solving complex engineering problems with simple, elegant code.
       </td>
       <td width="50%" valign="top">
         <h3>🎓 Academics & Details</h3>
         🎓 <b>Education:</b> Master of Computer Applications (MCA)<br>
         🏛 <b>Institution:</b> Marwadi University<br>
-        📈 <b>Academic Standing:</b> 8.83 CGPA<br>
-        ⏳ <b>Graduation:</b> 2027<br>
+        📈 <b>Current CGPA:</b> 8.83<br>
+        ⏳ <b>Expected Graduation:</b> 2027<br>
         📍 <b>Location:</b> Rajkot, Gujarat, India<br>
         📧 <b>Contact:</b> lakhadiyahemang@gmail.com<br>
-        🟢 <b>Status:</b> Open for Collaborations & Opportunities
+        🟢 <b>Availability:</b> Open for Collaborations & Opportunities
       </td>
     </tr>
   </table>
@@ -74,6 +72,7 @@
 <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 <img src="https://img.shields.io/badge/Redux-18181B?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
 <img src="https://img.shields.io/badge/Material_UI-18181B?style=for-the-badge&logo=mui&logoColor=007FFF" alt="Material UI" />
+<img src="https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 
 #### ⚙️ Backend & APIs
 <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
@@ -97,11 +96,13 @@
 <img src="https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 <img src="https://img.shields.io/badge/SQLite-18181B?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
 
-#### ☁️ Cloud, Tools & Infrastructure
+#### ☁️ Cloud & Infrastructure
 <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 <img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-18181B?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
 <img src="https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
 <img src="https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 
@@ -117,7 +118,7 @@
 |:---|:---|
 | <b>🛒 Shivashine Jewellery</b><br>Production-grade E-Commerce storefront with real-time inventory matrices, Google OAuth, and secure payment handling. | `React` `Node.js` `MongoDB` `Express` |
 | <b>🚖 Taxi Dispatcher System</b><br>Logistics dashboard utilizing complex relational queries to schedule fleets and prevent driver shift overlaps. | `Laravel` `PHP` `MySQL` `Tailwind` |
-| <b>⚡ Flutter Invoice App</b><br>Enterprise B2B cross-platform mobile client with local SQLite caching for seamless offline field billing operations. | `Flutter` `Dart` `SQLite` `REST API` |
+| <b>⚡ Flutter Invoice App</b><br>Enterprise B2B cross-platform mobile client with local SQLite caching for seamless offline field billing operations. | `Flutter` `Dart` `SQLite` `REST API` | <
 | <b>🏢 Enterprise ERP System</b><br>Centralized business resource planner unifying HR, payroll, and CRM data into a high-performance single dashboard. | `MERN Stack` `Redux` `JWT Auth` |
 | <b>📅 Timetable Generator</b><br>High-performance logic processor that auto-generates conflict-free multi-department academic timetables instantly. | `Next.js` `TypeScript` `PostgreSQL` |
 
@@ -129,31 +130,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemang2601&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-
-<br><br>
-
-<a href="https://github.com/Hemang2601">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemang2601&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB&icon_color=38BDF8" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Hemang2601">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang2601&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB" width="48%" alt="Top Languages" />
-</a>
-
-<br><br>
 
 <a href="https://github.com/Hemang2601">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang2601&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A6ADBB&sideNums=38BDF8&sideLabels=A6ADBB&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
 </a>
 
 <br><br>
-<h3>🐍 Contribution Graph Animation</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemang2601/Hemang2601/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -164,12 +146,12 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%">
         🏆 <b>Hackathon Success:</b> 4-Time Competitive Hackathon Participant & Designated Team Leader. <br><br>
         🎓 <b>Academic Excellence:</b> Maintaining an 8.83 CGPA while pursuing MCA at Marwadi University. <br><br>
-        🚀 <b>Projects Deployed:</b> Successfully architected, tested, and deployed 15+ full-stack and mobile applications.
+        🚀 <b>Projects Deployed:</b> Successfully architected and deployed 15+ full-stack and mobile applications.
       </td>
-      <td width="50%" valign="top">
+      <td width="50%">
         🌟 <b>Open Source:</b> Active contributor and maintainer of high-quality repositories. <br><br>
         👨‍🏫 <b>Mentorship:</b> Guiding peers in system architecture, Flutter cross-platform logic, and database design. <br><br>
         💻 <b>Tech Mastery:</b> Mastered 10+ core technologies spanning frontend, backend, and native mobile environments.
@@ -184,28 +166,29 @@
 
 | 🛠️ Domain | 📌 Offerings |
 | :--- | :--- |
-| **🌐 Web Development** | Enterprise Full-Stack Apps, Responsive Landing Pages, Premium Portfolios |
+| **🌐 Web Development** | Enterprise Full-Stack Apps, Responsive Landing Pages, Premium Portfolio Websites |
 | **📱 Mobile Development** | Cross-Platform Flutter Apps, Android Native Implementations, API Integrations |
 | **🏢 Business Software** | Custom ERP Systems, CRM Dashboards, Hospital Management, Logistics Platforms |
 | **⚙️ Backend & Architecture**| Custom REST API Development, Secure Authentication, Scalable Database Design |
+
 
 ---
 
 ### 🎯 DEVELOPMENT PROCESS & ARCHITECTURE
 
 <div align="center">
-  <code>Research ➡️ Planning ➡️ UI/UX Design ➡️ Development ➡️ Rigorous Testing ➡️ CI/CD Deployment ➡️ Maintenance & Support</code>
+  <h3><code>Research ➡️ Planning ➡️ UI/UX Design ➡️ Development ➡️ Rigorous Testing ➡️ CI/CD Deployment ➡️ Maintenance & Support</code></h3>
 </div>
 
 <br>
 
 <div align="center">
   <h3>🔥 CURRENTLY UPSKILLING IN</h3>
-  <img src="https://img.shields.io/badge/System_Design-18181B?style=flat-square&logo=diagrams.net&logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/Machine_Learning-18181B?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/AI_Integration-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-18181B?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud" />
-  <img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
+  <img src="https://img.shields.io/badge/System_Design-18181B?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-18181B?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-18181B?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-18181B?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=white" />
 </div>
 
 ---
@@ -245,7 +228,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
-  <br>
-  <b>Made with ❤️ by HEMANG LAKHADIYA</b><br>
-  <i>Thank you for visiting! Have a Great Day! 🚀</i>
+  <p style="font-family: monospace; font-size: 14px; color: #888;">
+    <b>Made with ❤️ by HEMANG LAKHADIYA</b><br/>
+    <i>Thank you for visiting! Have a Great Day! 🚀</i>
+  </p>
 </div>
