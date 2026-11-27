@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 584 294" width="100%" role="img" aria-label="EventEase — Event Check-In - Team NexGen Coders (Team Leader)">
+  <defs>
+    <linearGradient id="pcbg-eventease-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#FAF6F3" />
+    </linearGradient>
+    <linearGradient id="pcborder-eventease-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95" />
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#E5B2A3" stop-opacity="0.3" />
+    </linearGradient>
+    <linearGradient id="pcsheen-eventease-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="pcclip-eventease-light">
+      <rect x="1" y="1" width="582" height="292" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#pcclip-eventease-light)">
+    <rect x="1" y="1" width="582" height="292" rx="18" fill="url(#pcbg-eventease-light)" />
+    <!-- Ambient Orbs -->
+    <circle cx="95" cy="52" r="115" fill="#2563EB" opacity="0.18" />
+    <circle cx="510" cy="245" r="120" fill="#E8B8AA" opacity="0.2" />
+
+    <!-- Frosted Glass Card Surface -->
+    <rect x="10" y="10" width="564" height="274" rx="15" fill="#FFFFFF" fill-opacity="0.82" stroke="url(#pcborder-eventease-light)" stroke-width="1.4" />
+
+    <!-- Top Animated Accent Line -->
+    <rect x="26" y="10" width="130" height="3" rx="1.5" fill="#2563EB">
+      <animate attributeName="width" values="110;175;110" dur="5s" begin="4.2s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Diagonal Glass Sheen -->
+    <rect x="-180" y="10" width="140" height="274" fill="url(#pcsheen-eventease-light)" transform="skewX(-18)">
+      <animate attributeName="x" values="-180;780" dur="7.5s" begin="4.2s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Top Row: Category Pill + Status Pill -->
+    <rect x="26" y="26" width="96" height="24" rx="12" fill="#2563EB" fill-opacity="0.12" stroke="#2563EB" stroke-opacity="0.4" stroke-width="1" />
+    <text x="74.0" y="41.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" font-weight="700" fill="#2563EB">FULL STACK</text>
+
+    <rect x="454" y="26" width="104" height="24" rx="12" fill="#ECFDF5" stroke="#34D399" stroke-opacity="0.45" stroke-width="1" />
+    <circle cx="468" cy="38" r="3.5" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="478" y="41.5" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.5" font-weight="700" fill="#047857">PUBLIC REPO</text>
+
+    <!-- Title & Subtitle -->
+    <text x="26" y="78" font-family="'Segoe UI', system-ui, sans-serif" font-size="19" font-weight="800" fill="#0F172A">EventEase — Event Check-In</text>
+    <text x="26" y="98" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#A65D68">Team NexGen Coders (Team Leader)</text>
+
+    <!-- Description -->
+    <text x="26" y="121" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#475569">Real-time college event registration and check-in platform</text>
+    <text x="26" y="138" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#475569">replacing scattered spreadsheets.</text>
+
+    <!-- Inner Frosted Glass Feature Well -->
+    <rect x="26" y="150" width="532" height="88" rx="11" fill="#F8FAFC" fill-opacity="0.82" stroke="#E2E8F0" stroke-width="1" />
+    <circle cx="42" cy="168" r="3" fill="#2563EB" /><text x="54" y="172" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#334155">Capacity-aware registration &amp; unique check-in pass flow</text><circle cx="42" cy="192" r="3" fill="#2563EB" /><text x="54" y="196" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#334155">Type-safe React + TypeScript frontend &amp; API backend</text><circle cx="42" cy="216" r="3" fill="#2563EB" /><text x="54" y="220" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#334155">Led architecture &amp; sprint delivery as Team Leader</text>
+
+    <!-- Tech Stack Chips -->
+    <rect x="26" y="252" width="92" height="24" rx="7" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="72.0" y="267.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#1E293B">TypeScript</text><rect x="126.0" y="252" width="56" height="24" rx="7" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="154.0" y="267.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#1E293B">React</text><rect x="190.0" y="252" width="70" height="24" rx="7" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="225.2" y="267.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#1E293B">Drizzle</text><rect x="268.4" y="252" width="78" height="24" rx="7" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1" /><text x="307.2" y="267.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#1E293B">Supabase</text>
+
+    <!-- CTA Pill -->
+    <rect x="444" y="250" width="114" height="26" rx="8" fill="#2563EB" fill-opacity="0.12" stroke="#2563EB" stroke-opacity="0.5" stroke-width="1" />
+    <text x="501" y="266.5" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="700" fill="#2563EB">View Repo →</text>
+
+    <rect x="1" y="1" width="582" height="292" rx="18" fill="none" stroke="#DCE5F0" stroke-width="1.2" />
+  </g>
+</svg>

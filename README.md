@@ -137,117 +137,100 @@
   </a>
 </div>
 
-**TrustDoc – Secure Document Transfer &amp; Integrity Verification** *(MCA Semester 4 · Prototype in Progress)*
+**TrustDoc – Secure Document Transfer &amp; Integrity Verification** *(MCA Semester 4 · Prototype in Progress · Private Repo)*
 * **Stack:** `React` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `AES-256` · `RSA Signatures` · `SHA-256`
-* **Architecture Highlights:**
-  * Client-side **AES-256** payload encryption for zero-knowledge document transfer
-  * **RSA digital signatures** ensuring verified author identity and non-repudiation
-  * **SHA-256** cryptographic digest checks for instant tamper detection
-  * Granular **role-based access control (RBAC)** and immutable **audit logging**
-* **Availability:** Active MCA prototype (private repository) · [View Architecture on Portfolio](https://hemang2601.github.io/portfolio/#projects)
+* **Key Security Capabilities:** Client-side AES-256 encryption, RSA author non-repudiation signatures, SHA-256 cryptographic tamper checks, granular RBAC permissions, and immutable document audit logging.
 
 ---
 
 ### Core Portfolio &amp; Production Systems
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Shivashine Jewellery</h3>
-      <p><strong>E-Commerce Web Platform</strong> · <sub>Web Application</sub></p>
-      <p>Production-ready online jewellery storefront built for secure checkout and catalog discovery.</p>
-      <ul>
-        <li><strong>Payments &amp; Auth:</strong> Razorpay gateway + Google OAuth login</li>
-        <li><strong>Catalog &amp; Stock:</strong> Multi-attribute filters &amp; real-time inventory sync</li>
-      </ul>
-      <p><code>Laravel</code> <code>PHP</code> <code>Tailwind CSS</code> <code>Razorpay</code> <code>MySQL</code></p>
-      <p><sub>Status: Private / Team Repo · <a href="https://hemang2601.github.io/portfolio/#projects">Portfolio Case Study</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Enterprise Inventory Management System</h3>
-      <p><strong>Stock Tracking &amp; Billing ERP</strong> · <sub>Web &amp; Analytics</sub></p>
-      <p>Commercial inventory, billing, and sales forecasting system with visual analytics.</p>
-      <ul>
-        <li><strong>Analytics &amp; Alerts:</strong> Chart.js sales trends &amp; low-stock alerts</li>
-        <li><strong>Operations:</strong> Multi-role permissions &amp; printable tax invoices</li>
-      </ul>
-      <p><code>Laravel</code> <code>Bootstrap</code> <code>Chart.js</code> <code>PHP</code> <code>MySQL</code></p>
-      <p><sub>Status: Private Repo · <a href="https://hemang2601.github.io/portfolio/#projects">Portfolio Case Study</a></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗓️ Automated Class Timetable Generator</h3>
-      <p><strong>Matrix Scheduling Engine</strong> · <sub>Algorithmic Web</sub></p>
-      <p>Conflict-free multi-department academic scheduling processor optimized for server performance.</p>
-      <ul>
-        <li><strong>Algorithm:</strong> Matrix conflict resolution across faculty &amp; rooms</li>
-        <li><strong>Reliability:</strong> Server-side optimization preventing execution timeouts</li>
-      </ul>
-      <p><code>Laravel</code> <code>PHP</code> <code>Bootstrap</code> <code>Matrix Logic</code> <code>MySQL</code></p>
-      <p><sub>Status: Institutional / Private · <a href="https://hemang2601.github.io/portfolio/#projects">Portfolio Case Study</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/Hemang2601/Bill">Shree Shakti Billing App</a></h3>
-      <p><strong>Field Utility &amp; Ledger Mobile App</strong> · <sub>Flutter</sub></p>
-      <p>Cross-platform mobile billing utility engineered for on-field electrical service contractors.</p>
-      <ul>
-        <li><strong>Billing &amp; Ledger:</strong> Digital PDF invoices &amp; customer balance tracking</li>
-        <li><strong>Resilience:</strong> Offline-first local storage for field operation</li>
-      </ul>
-      <p><code>Flutter</code> <code>Dart</code> <code>Offline Storage</code></p>
-      <p><sub>Public Repo: <a href="https://github.com/Hemang2601/Bill">Hemang2601/Bill</a> · MERN Edition: <a href="https://github.com/Hemang2601/Bill-MERN">Bill-MERN</a></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚕 Automated Taxi Service Manager</h3>
-      <p><strong>Fleet Dispatch &amp; Fare System</strong> · <sub>Web &amp; Fleet</sub></p>
-      <p>Full-stack fleet operations dashboard managing vehicles, trips, and driver schedules.</p>
-      <ul>
-        <li><strong>Dispatch Logic:</strong> Relational models preventing overlapping driver shifts</li>
-        <li><strong>Billing:</strong> Dynamic mileage-based fare calculations &amp; receipts</li>
-      </ul>
-      <p><code>Laravel</code> <code>PHP</code> <code>Bootstrap</code> <code>MySQL</code></p>
-      <p><sub>Status: Private Repo · <a href="https://hemang2601.github.io/portfolio/#projects">Portfolio Case Study</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/Hemang2601/HACKTHON2">Certificate &amp; Placement Analytics</a></h3>
-      <p><strong>Campus Verification Hub</strong> · <sub>Web Portal</sub></p>
-      <p>Centralized portal for student extracurricular records and campus placement screening.</p>
-      <ul>
-        <li><strong>Filtering:</strong> Multi-attribute recruiter search across credential categories</li>
-        <li><strong>Documents:</strong> Automated on-demand PDF generation via TCPDF</li>
-      </ul>
-      <p><code>PHP</code> <code>TCPDF</code> <code>Bootstrap</code> <code>JavaScript</code> <code>MySQL</code></p>
-      <p><sub>Public Repo: <a href="https://github.com/Hemang2601/HACKTHON2">Hemang2601/HACKTHON2</a></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/Hemang2601/Farmar">Farmer Bidding &amp; Marketplace</a></h3>
-      <p><strong>Agricultural E-Commerce</strong> · <sub>Web Marketplace</sub></p>
-      <p>Two-sided marketplace connecting farmers directly with wholesale produce buyers.</p>
-      <ul>
-        <li><strong>Bidding:</strong> Open pricing bids removing intermediary broker fees</li>
-        <li><strong>Listings:</strong> Crop inventory publishing with lightweight mobile UI</li>
-      </ul>
-      <p><code>PHP</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>MySQL</code></p>
-      <p><sub>Public Repo: <a href="https://github.com/Hemang2601/Farmar">Hemang2601/Farmar</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎟️ <a href="https://github.com/Hemang2601/EventEase">EventEase — Event Check-In</a></h3>
-      <p><strong>Team NexGen Coders (Leader)</strong> · <sub>Full Stack</sub></p>
-      <p>Real-time college event registration and check-in platform built with capacity tracking.</p>
-      <ul>
-        <li><strong>Workflow:</strong> Instant registration &amp; unique check-in pass issuance</li>
-        <li><strong>Architecture:</strong> Type-safe React frontend with Drizzle &amp; Supabase</li>
-      </ul>
-      <p><code>TypeScript</code> <code>React</code> <code>Drizzle</code> <code>Supabase</code></p>
-      <p><sub>Public Repo: <a href="https://github.com/Hemang2601/EventEase">Hemang2601/EventEase</a></sub></p>
-    </td>
-  </tr>
-</table>
+<sub>Interactive Glass UI Project Cards — click any card to open the public GitHub repository or portfolio case study.</sub>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://hemang2601.github.io/portfolio/#projects">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-shivashine-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-shivashine-light.svg" />
+            <img src="./assets/cards/proj-shivashine-light.svg" width="100%" alt="Shivashine Jewellery — E-Commerce Web Platform (Laravel, PHP, Tailwind CSS, Razorpay, MySQL)" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://hemang2601.github.io/portfolio/#projects">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-ims-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-ims-light.svg" />
+            <img src="./assets/cards/proj-ims-light.svg" width="100%" alt="Enterprise Inventory Management System — Stock Tracking & Analytics (Laravel, Bootstrap, Chart.js, MySQL)" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://hemang2601.github.io/portfolio/#projects">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-timetable-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-timetable-light.svg" />
+            <img src="./assets/cards/proj-timetable-light.svg" width="100%" alt="Automated Class Timetable Generator — Matrix Scheduling Engine (Laravel, PHP, MySQL)" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hemang2601/Bill">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-bill-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-bill-light.svg" />
+            <img src="./assets/cards/proj-bill-light.svg" width="100%" alt="Shree Shakti Billing App — Flutter & Dart Offline Billing & Ledger App (Public Repo: Hemang2601/Bill)" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://hemang2601.github.io/portfolio/#projects">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-taxi-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-taxi-light.svg" />
+            <img src="./assets/cards/proj-taxi-light.svg" width="100%" alt="Automated Taxi Service Manager — Fleet Dispatch & Fare System (Laravel, PHP, Bootstrap, MySQL)" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hemang2601/HACKTHON2">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-hackthon2-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-hackthon2-light.svg" />
+            <img src="./assets/cards/proj-hackthon2-light.svg" width="100%" alt="Certificate & Placement Analytics Portal — PHP, TCPDF, Bootstrap, MySQL (Public Repo: Hemang2601/HACKTHON2)" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hemang2601/Farmar">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-farmar-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-farmar-light.svg" />
+            <img src="./assets/cards/proj-farmar-light.svg" width="100%" alt="Farmer Bidding & Marketplace — Agricultural E-Commerce (Public Repo: Hemang2601/Farmar)" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hemang2601/EventEase">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-eventease-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./assets/cards/proj-eventease-light.svg" />
+            <img src="./assets/cards/proj-eventease-light.svg" width="100%" alt="EventEase — College Event Check-In Platform (Public Repo: Hemang2601/EventEase)" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Additional Verified Public Repositories
 
@@ -263,88 +246,37 @@
 
 ## Professional Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ App Full Stack Intern</h3>
-      <p><strong>Zennaxx Technology</strong> · <sub>Rajkot, Gujarat</sub><br />
-      <sub>📅 October 2026 – Present · Current Role</sub></p>
-      <ul>
-        <li>Building application-focused full-stack features and practical software engineering workflows.</li>
-        <li>Designing and implementing REST APIs using <strong>Node.js</strong> and <strong>Express.js</strong>.</li>
-        <li>Structuring <strong>MongoDB</strong> schemas and backend architecture for scalable products.</li>
-      </ul>
-      <p><code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>REST APIs</code> <code>Backend Architecture</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Web &amp; App Development Intern</h3>
-      <p><strong>Rajeshwar Infotech</strong> · <sub>Rajkot, Gujarat, India</sub><br />
-      <sub>📅 August 2023 – December 2024 · 1 yr 5 mos</sub></p>
-      <ul>
-        <li>Developed native <strong>Android</strong> mobile applications in <strong>Java</strong> focused on clean UX.</li>
-        <li>Contributed to full-stack web solutions using <strong>Laravel</strong> and <strong>PHP</strong>.</li>
-        <li>Managed relational <strong>MySQL</strong> databases ensuring schema integrity and reliable queries.</li>
-      </ul>
-      <p><code>Android</code> <code>Java</code> <code>Laravel</code> <code>PHP</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/experience-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/experience-light.svg" />
+    <img src="./assets/cards/experience-light.svg" width="100%" alt="Professional Experience — Zennaxx Technology (Oct 2026–Present) and Rajeshwar Infotech (Aug 2023–Dec 2024)" />
+  </picture>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Education
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Master of Computer Applications (MCA)</h3>
-      <p><strong>Marwadi University</strong> · <sub>2025 – Present (Exp. 2027)</sub><br />
-      <strong>Current CGPA: 8.83</strong></p>
-      <ul>
-        <li>Cross-Platform Application Architecture</li>
-        <li>Advanced Database Tuning &amp; Optimization</li>
-        <li>Object-Oriented Design &amp; Algorithmic Complexity</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ Bachelor of Computer Applications (BCA)</h3>
-      <p><strong>Atmiya University</strong> · <sub>2022 – 2025</sub><br />
-      <strong>Final CGPA: 9.32 (Distinction)</strong></p>
-      <ul>
-        <li>Relational Database Management Systems (RDBMS)</li>
-        <li>Object-Oriented Programming in Java &amp; C++</li>
-        <li>Data Structures, Algorithms &amp; Web Foundations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/education-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/education-light.svg" />
+    <img src="./assets/cards/education-light.svg" width="100%" alt="Education — MCA at Marwadi University (CGPA 8.83) and BCA at Atmiya University (CGPA 9.32 Distinction)" />
+  </picture>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Achievements &amp; Hackathons
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 Competitive Honors</h3>
-      <ul>
-        <li><strong>🏆 1st Place Winner – Code Carnival 3.0</strong><br /><sub>Atmiya Developer Students Club (October 2026) — Architected &amp; pitched a complete functional prototype under competitive sprint conditions.</sub></li>
-        <li><strong>⚡ 5× Hackathon Participant</strong><br /><sub>Delivered working software solutions across five 24–36 hour collegiate &amp; national sprint cycles.</sub></li>
-        <li><strong>🧭 Hackathon Team Leader</strong><br /><sub>Led system architecture, sprint coordination, blocking bug resolution, and jury presentations.</sub></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Engineering Milestones &amp; Mindset</h3>
-      <ul>
-        <li><strong>🛠️ 14+ Software Projects:</strong> Built across web, mobile, and backend/database systems.</li>
-        <li><strong>📜 16 Professional Certifications:</strong> Spanning AI, Cloud, Databases, and Full Stack engineering.</li>
-        <li><strong>📐 Core Principles:</strong>
-          <br /><sub>01. Understand the problem before coding · 02. Design friction-free UX · 03. Engineer reliable, secure backends · 04. Improve continuously</sub>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/achievements-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/achievements-light.svg" />
+    <img src="./assets/cards/achievements-light.svg" width="100%" alt="Achievements — 1st Place Code Carnival 3.0, 5x Hackathon Participant, Team Leader, 14+ Projects, 16 Certifications" />
+  </picture>
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -392,9 +324,16 @@
 
 ## Contact / Let's Connect
 
-Open to engineering collaborations, backend/full-stack software projects, and development opportunities.
-
 <div align="center">
+  <a href="mailto:lakhadiyahemang@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-light.svg" />
+      <img src="./assets/cards/contact-light.svg" width="100%" alt="Contact Hemang Lakhadiya — Rajkot, Gujarat, India — lakhadiyahemang@gmail.com" />
+    </picture>
+  </a>
+
+  <br /><br />
 
 | Channel | Direct Access |
 | :--- | :--- |

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 248" width="100%" role="img" aria-label="Achievements">
+  <defs>
+    <linearGradient id="tg-Achievements-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#131C2E" />
+    </linearGradient>
+    <clipPath id="tc-Achievements-dark">
+      <rect x="1" y="1" width="1198" height="246" rx="18" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#tc-Achievements-dark)">
+    <rect x="1" y="1" width="1198" height="246" rx="18" fill="url(#tg-Achievements-dark)" />
+    <circle cx="220" cy="60" r="140" fill="#60A5FA" opacity="0.2" />
+    <circle cx="960" cy="198" r="150" fill="#E5B2A3" opacity="0.2" />
+    <g transform="translate(14, 12)">
+      <rect x="0" y="0" width="574" height="224" rx="16" fill="#111827" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1.3" />
+      <rect x="24" y="0" width="130" height="3" rx="1.5" fill="#60A5FA">
+        <animate attributeName="width" values="110;180;110" dur="5s" begin="0.0s" repeatCount="indefinite" />
+      </rect>
+      <rect x="24" y="18" width="161" height="22" rx="11" fill="#60A5FA" fill-opacity="0.2" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="1" />
+      <text x="104.4" y="32.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.8" font-weight="700" fill="#60A5FA">HONORS &amp; HACKATHONS</text>
+      <text x="550" y="32.5" text-anchor="end" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="600" fill="#E5B2A3">Oct 2026 • Verified</text>
+
+      <text x="24" y="64" font-family="'Segoe UI', system-ui, sans-serif" font-size="19" font-weight="800" fill="#F8FAFC">1st Place — Code Carnival 3.0</text>
+      <text x="24" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#E5B2A3">Atmiya Developer Students Club &amp; Sprint Leadership</text>
+
+      <rect x="24" y="95" width="526" height="88" rx="10" fill="#0D1526" fill-opacity="0.82" stroke="#24324A" stroke-width="1" />
+      <circle cx="38" cy="108" r="3" fill="#60A5FA" /><text x="50" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">1st Place Winner at Code Carnival 3.0 flagship hackathon</text><circle cx="38" cy="131" r="3" fill="#60A5FA" /><text x="50" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">5× Hackathon Participant across 24–36 hour sprint cycles</text><circle cx="38" cy="154" r="3" fill="#60A5FA" /><text x="50" y="158" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">Hackathon Team Leader: architecture, debugging &amp; jury pitch</text>
+      <rect x="24" y="194" width="85" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="66.4" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">1st Place</text><rect x="116.8" y="194" width="114" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="173.6" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">5× Hackathons</text><rect x="238.4" y="194" width="99" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="288.0" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Team Leader</text><rect x="345.6" y="194" width="106" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="398.8" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">14+ Projects</text>
+    </g>
+    <g transform="translate(612, 12)">
+      <rect x="0" y="0" width="574" height="224" rx="16" fill="#111827" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1.3" />
+      <rect x="24" y="0" width="130" height="3" rx="1.5" fill="#E5B2A3">
+        <animate attributeName="width" values="110;180;110" dur="5s" begin="1.4s" repeatCount="indefinite" />
+      </rect>
+      <rect x="24" y="18" width="161" height="22" rx="11" fill="#E5B2A3" fill-opacity="0.2" stroke="#E5B2A3" stroke-opacity="0.45" stroke-width="1" />
+      <text x="104.4" y="32.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.8" font-weight="700" fill="#E5B2A3">ENGINEERING MINDSET</text>
+      <text x="550" y="32.5" text-anchor="end" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="600" fill="#E5B2A3">16 Certifications</text>
+
+      <text x="24" y="64" font-family="'Segoe UI', system-ui, sans-serif" font-size="19" font-weight="800" fill="#F8FAFC">How I Design &amp; Ship Software</text>
+      <text x="24" y="84" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="600" fill="#E5B2A3">Four core principles guiding architecture &amp; execution</text>
+
+      <rect x="24" y="95" width="526" height="88" rx="10" fill="#0D1526" fill-opacity="0.82" stroke="#24324A" stroke-width="1" />
+      <circle cx="38" cy="108" r="3" fill="#E5B2A3" /><text x="50" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">01. Understand the real-world problem before writing code</text><circle cx="38" cy="131" r="3" fill="#E5B2A3" /><text x="50" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">02. Design clean, intuitive UX • 03. Engineer secure backends</text><circle cx="38" cy="154" r="3" fill="#E5B2A3" /><text x="50" y="158" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.2" fill="#CBD5E1">04. Improve continuously through practical builds &amp; feedback</text>
+      <rect x="24" y="194" width="78" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="62.8" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Clean UX</text><rect x="109.6" y="194" width="150" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="184.4" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Defensive Security</text><rect x="267.2" y="194" width="128" height="23" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1" /><text x="331.2" y="209" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Database Tuning</text>
+    </g>
+    <rect x="1" y="1" width="1198" height="246" rx="18" fill="none" stroke="#283548" stroke-width="1.2" />
+  </g>
+</svg>
