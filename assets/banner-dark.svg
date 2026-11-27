@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Hemang Lakhadiya - Full Stack Developer and Mobile Architect">
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="55%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+    <linearGradient id="roseGoldDark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D49B8C" />
+      <stop offset="50%" stop-color="#E5B2A3" />
+      <stop offset="100%" stop-color="#C88A78" />
+    </linearGradient>
+    <linearGradient id="brandBlueDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+    <pattern id="dotGridDark" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#30363D" opacity="0.8" />
+    </pattern>
+    <radialGradient id="warmGlowDark" cx="80%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#C88A78" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="coolGlowDark" cx="15%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Base Card -->
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bgDark)" stroke="#30363D" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#dotGridDark)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#warmGlowDark)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#coolGlowDark)" />
+
+  <!-- Top Accent Hairline -->
+  <rect x="44" y="1" width="220" height="3" rx="1.5" fill="url(#roseGoldDark)" />
+
+  <!-- HL Monogram + Status Eyebrow -->
+  <g transform="translate(52, 42)">
+    <rect x="0" y="0" width="42" height="42" rx="11" fill="url(#brandBlueDark)" />
+    <text x="21" y="27" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#FFFFFF" letter-spacing="0.5">HL</text>
+
+    <rect x="56" y="7" width="268" height="28" rx="14" fill="#161B22" stroke="#3E3235" stroke-width="1.2" />
+    <circle cx="73" cy="21" r="4" fill="#E5B2A3" />
+    <text x="86" y="25.5" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="600" font-size="12" fill="#CBD5E1">App Full Stack Intern @ Zennaxx Technology</text>
+  </g>
+
+  <!-- Main Identity -->
+  <g transform="translate(52, 134)">
+    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="40" fill="#F8FAFC" letter-spacing="1.2">HEMANG LAKHADIYA</text>
+    <text x="0" y="34" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="19" fill="#E5B2A3" letter-spacing="0.3">Full Stack Developer  |  Mobile Architect</text>
+    <rect x="0" y="50" width="76" height="2.5" rx="1.25" fill="url(#roseGoldDark)" />
+    <text x="0" y="76" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#94A3B8">Building Scalable Applications &amp; Digital Experiences</text>
+  </g>
+
+  <!-- Bottom Verified Metadata Pills -->
+  <g transform="translate(52, 248)" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="600">
+    <rect x="0" y="0" width="166" height="32" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="16" y="20.5" fill="#E2E8F0">Rajkot, Gujarat, India</text>
+
+    <rect x="178" y="0" width="198" height="32" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="194" y="20.5" fill="#E2E8F0">MCA @ Marwadi University</text>
+
+    <rect x="388" y="0" width="212" height="32" rx="8" fill="#1F191C" stroke="#4D3539" stroke-width="1" />
+    <text x="404" y="20.5" fill="#E5B2A3">1st Place • Code Carnival 3.0</text>
+  </g>
+
+  <!-- Right Side: Portfolio-Inspired Code Identity Card -->
+  <g transform="translate(736, 42)">
+    <rect x="0" y="0" width="412" height="236" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.3" />
+    <!-- Window Header -->
+    <rect x="0" y="0" width="412" height="36" rx="14" fill="#161B22" />
+    <rect x="0" y="22" width="412" height="14" fill="#161B22" />
+    <line x1="0" y1="36" x2="412" y2="36" stroke="#30363D" stroke-width="1" />
+    <circle cx="20" cy="18" r="5" fill="#FB7185" />
+    <circle cx="36" cy="18" r="5" fill="#FBBF24" />
+    <circle cx="52" cy="18" r="5" fill="#4ADE80" />
+    <text x="72" y="22" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="11.5" font-weight="600" fill="#8B949E">hemang-profile.ts</text>
+    <rect x="342" y="9" width="54" height="18" rx="9" fill="#251C1F" stroke="#53383E" stroke-width="1" />
+    <text x="369" y="21.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" font-weight="700" fill="#E5B2A3">v3.0</text>
+
+    <!-- Code Lines -->
+    <g transform="translate(20, 62)" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="12">
+      <text x="0" y="0" fill="#60A5FA" font-weight="600">const <tspan fill="#F8FAFC">developer</tspan> <tspan fill="#8B949E">=</tspan> <tspan fill="#8B949E">{</tspan></text>
+      <text x="16" y="25" fill="#8B949E">focus: <tspan fill="#E5B2A3">"Backend, APIs &amp; Security"</tspan>,</text>
+      <text x="16" y="50" fill="#8B949E">web: <tspan fill="#E2E8F0">["Node.js", "Express", "Laravel"]</tspan>,</text>
+      <text x="16" y="75" fill="#8B949E">mobile: <tspan fill="#E2E8F0">["Flutter", "Dart", "Android"]</tspan>,</text>
+      <text x="16" y="100" fill="#8B949E">data: <tspan fill="#E2E8F0">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
+      <text x="16" y="125" fill="#8B949E">flagship: <tspan fill="#60A5FA">"TrustDoc (MCA Sem 4)"</tspan>,</text>
+      <text x="16" y="150" fill="#8B949E">academic: <tspan fill="#E2E8F0">"MCA 8.83 | BCA 9.32"</tspan></text>
+      <text x="0" y="172" fill="#8B949E">};</text>
+    </g>
+  </g>
+</svg>
