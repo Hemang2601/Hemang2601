@@ -1,95 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Hemang Lakhadiya - Full Stack Developer and Mobile Architect">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Hemang Lakhadiya - Full Stack Developer and Mobile Architect">
   <defs>
     <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="55%" stop-color="#FAF8F5" />
-      <stop offset="100%" stop-color="#F3F6FA" />
+      <stop offset="52%" stop-color="#FAF7F4" />
+      <stop offset="100%" stop-color="#F1F5F9" />
     </linearGradient>
     <linearGradient id="roseGold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C88A78" />
+      <stop offset="0%" stop-color="#D49B8C" />
       <stop offset="50%" stop-color="#B76E79" />
-      <stop offset="100%" stop-color="#D9A79C" />
+      <stop offset="100%" stop-color="#E2B4A6" />
+    </linearGradient>
+    <linearGradient id="shimmerLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B76E79" stop-opacity="0" />
+      <stop offset="50%" stop-color="#B76E79" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#B76E79" stop-opacity="0" />
     </linearGradient>
     <linearGradient id="brandBlue" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#2563EB" />
       <stop offset="100%" stop-color="#1D4ED8" />
     </linearGradient>
     <pattern id="dotGridLight" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.15" fill="#CBD5E1" opacity="0.65" />
+      <circle cx="2" cy="2" r="1.15" fill="#CBD5E1" opacity="0.6" />
     </pattern>
-    <radialGradient id="warmGlow" cx="80%" cy="20%" r="55%">
-      <stop offset="0%" stop-color="#E8C5BA" stop-opacity="0.28" />
+    <radialGradient id="warmGlow" cx="82%" cy="22%" r="55%">
+      <stop offset="0%" stop-color="#E8C5BA" stop-opacity="0.34" />
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="coolGlow" cx="15%" cy="85%" r="50%">
-      <stop offset="0%" stop-color="#DBEAFE" stop-opacity="0.45" />
+    <radialGradient id="coolGlow" cx="14%" cy="86%" r="52%">
+      <stop offset="0%" stop-color="#DBEAFE" stop-opacity="0.5" />
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
     </radialGradient>
   </defs>
 
   <!-- Base Card -->
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bgLight)" stroke="#E2E8F0" stroke-width="1.5" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#dotGridLight)" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#warmGlow)" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#coolGlow)" />
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#bgLight)" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#dotGridLight)" />
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#warmGlow)" />
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="url(#coolGlow)" />
 
-  <!-- Top Accent Hairline -->
-  <rect x="44" y="1" width="220" height="3" rx="1.5" fill="url(#roseGold)" />
+  <!-- Subtle Animated Ambient Orbits -->
+  <g opacity="0.45">
+    <circle cx="670" cy="70" r="36" fill="none" stroke="#E2C3BA" stroke-width="1" stroke-dasharray="4 6">
+      <animateTransform attributeName="transform" type="rotate" from="0 670 70" to="360 670 70" dur="28s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="670" cy="70" r="52" fill="none" stroke="#BFDBFE" stroke-width="1" stroke-dasharray="3 8">
+      <animateTransform attributeName="transform" type="rotate" from="360 670 70" to="0 670 70" dur="36s" repeatCount="indefinite" />
+    </circle>
+  </g>
 
-  <!-- HL Monogram + Status Eyebrow -->
+  <!-- Top Static + Animated Shimmer Accent -->
+  <rect x="44" y="1" width="240" height="3" rx="1.5" fill="url(#roseGold)" />
+  <rect x="44" y="1" width="180" height="3" rx="1.5" fill="url(#shimmerLight)">
+    <animate attributeName="x" values="44;970;44" dur="7s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- HL Monogram + Live Status Pill -->
   <g transform="translate(52, 42)">
-    <rect x="0" y="0" width="42" height="42" rx="11" fill="url(#brandBlue)" />
-    <text x="21" y="27" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="18" fill="#FFFFFF" letter-spacing="0.5">HL</text>
+    <rect x="0" y="0" width="44" height="44" rx="12" fill="url(#brandBlue)" />
+    <text x="22" y="28.5" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="18.5" fill="#FFFFFF" letter-spacing="0.5">HL</text>
 
-    <rect x="56" y="7" width="268" height="28" rx="14" fill="#FFFFFF" stroke="#E5D3CE" stroke-width="1.2" />
-    <circle cx="73" cy="21" r="4" fill="#B76E79" />
-    <text x="86" y="25.5" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="600" font-size="12" fill="#64748B">App Full Stack Intern @ Zennaxx Technology</text>
+    <rect x="58" y="8" width="278" height="28" rx="14" fill="#FFFFFF" stroke="#E5D3CE" stroke-width="1.2" />
+    <circle cx="75" cy="22" r="4" fill="#B76E79">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="75" cy="22" r="4" fill="none" stroke="#B76E79" stroke-width="1.5">
+      <animate attributeName="r" values="4;10" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;0" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="89" y="26.5" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="600" font-size="12" fill="#475569">App Full Stack Intern @ Zennaxx Technology</text>
   </g>
 
   <!-- Main Identity -->
-  <g transform="translate(52, 134)">
-    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="40" fill="#0F172A" letter-spacing="1.2">HEMANG LAKHADIYA</text>
-    <text x="0" y="34" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="19" fill="#A65D68" letter-spacing="0.3">Full Stack Developer  |  Mobile Architect</text>
-    <rect x="0" y="50" width="76" height="2.5" rx="1.25" fill="url(#roseGold)" />
-    <text x="0" y="76" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#475569">Building Scalable Applications &amp; Digital Experiences</text>
+  <g transform="translate(52, 138)">
+    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="42" fill="#0F172A" letter-spacing="1.2">HEMANG LAKHADIYA</text>
+    <text x="0" y="36" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="19.5" fill="#A65D68" letter-spacing="0.3">Full Stack Developer  |  Mobile Architect</text>
+    <rect x="0" y="52" width="88" height="3" rx="1.5" fill="url(#roseGold)">
+      <animate attributeName="width" values="72;128;72" dur="4.5s" repeatCount="indefinite" />
+    </rect>
+    <text x="0" y="80" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#475569">Building Scalable Applications &amp; Digital Experiences</text>
   </g>
 
   <!-- Bottom Verified Metadata Pills -->
-  <g transform="translate(52, 248)" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="600">
-    <rect x="0" y="0" width="166" height="32" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
-    <text x="16" y="20.5" fill="#334155">Rajkot, Gujarat, India</text>
+  <g transform="translate(52, 260)" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="600">
+    <rect x="0" y="0" width="166" height="34" rx="9" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+    <text x="16" y="21.5" fill="#334155">Rajkot, Gujarat, India</text>
 
-    <rect x="178" y="0" width="198" height="32" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
-    <text x="194" y="20.5" fill="#334155">MCA @ Marwadi University</text>
+    <rect x="178" y="0" width="202" height="34" rx="9" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+    <text x="194" y="21.5" fill="#334155">MCA @ Marwadi University</text>
 
-    <rect x="388" y="0" width="212" height="32" rx="8" fill="#FDF8F6" stroke="#E5CFC9" stroke-width="1" />
-    <text x="404" y="20.5" fill="#9A5560">1st Place • Code Carnival 3.0</text>
+    <rect x="392" y="0" width="218" height="34" rx="9" fill="#FDF8F6" stroke="#E5CFC9" stroke-width="1" />
+    <text x="408" y="21.5" fill="#9A5560">1st Place • Code Carnival 3.0</text>
   </g>
 
-  <!-- Right Side: Portfolio-Inspired Code Identity Card -->
-  <g transform="translate(736, 42)">
-    <rect x="0" y="0" width="412" height="236" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.3" />
+  <!-- Right Side: Animated Portfolio-Inspired Code Identity Card -->
+  <g transform="translate(730, 38)">
+    <rect x="0" y="0" width="422" height="264" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4" />
+    <!-- Active Top Line Glow -->
+    <rect x="24" y="0" width="90" height="2" rx="1" fill="#2563EB" opacity="0.8">
+      <animate attributeName="x" values="24;308;24" dur="6s" repeatCount="indefinite" />
+    </rect>
     <!-- Window Header -->
-    <rect x="0" y="0" width="412" height="36" rx="14" fill="#F8FAFC" />
-    <rect x="0" y="22" width="412" height="14" fill="#F8FAFC" />
-    <line x1="0" y1="36" x2="412" y2="36" stroke="#E2E8F0" stroke-width="1" />
-    <circle cx="20" cy="18" r="5" fill="#FDA4AF" />
-    <circle cx="36" cy="18" r="5" fill="#FCD34D" />
-    <circle cx="52" cy="18" r="5" fill="#86EFAC" />
-    <text x="72" y="22" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="11.5" font-weight="600" fill="#64748B">hemang-profile.ts</text>
-    <rect x="342" y="9" width="54" height="18" rx="9" fill="#FDF2F0" stroke="#E8C9C1" stroke-width="1" />
-    <text x="369" y="21.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" font-weight="700" fill="#A65D68">v3.0</text>
+    <rect x="0" y="0" width="422" height="38" rx="14" fill="#F8FAFC" />
+    <rect x="0" y="24" width="422" height="14" fill="#F8FAFC" />
+    <line x1="0" y1="38" x2="422" y2="38" stroke="#E2E8F0" stroke-width="1" />
+    <circle cx="20" cy="19" r="5" fill="#FDA4AF" />
+    <circle cx="36" cy="19" r="5" fill="#FCD34D" />
+    <circle cx="52" cy="19" r="5" fill="#86EFAC" />
+    <text x="72" y="23" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="11.5" font-weight="600" fill="#64748B">hemang-profile.ts</text>
+    <rect x="348" y="10" width="58" height="18" rx="9" fill="#FDF2F0" stroke="#E8C9C1" stroke-width="1" />
+    <text x="377" y="22.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" font-weight="700" fill="#A65D68">ACTIVE</text>
+
+    <!-- Highlight Row Pulse -->
+    <rect x="12" y="169" width="398" height="22" rx="5" fill="#EFF6FF">
+      <animate attributeName="opacity" values="0.35;0.85;0.35" dur="3.5s" repeatCount="indefinite" />
+    </rect>
 
     <!-- Code Lines -->
-    <g transform="translate(20, 62)" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="12">
+    <g transform="translate(20, 64)" font-family="'Cascadia Code', 'JetBrains Mono', ui-monospace, monospace" font-size="12">
       <text x="0" y="0" fill="#2563EB" font-weight="600">const <tspan fill="#0F172A">developer</tspan> <tspan fill="#64748B">=</tspan> <tspan fill="#64748B">{</tspan></text>
-      <text x="16" y="25" fill="#64748B">focus: <tspan fill="#A65D68">"Backend, APIs &amp; Security"</tspan>,</text>
-      <text x="16" y="50" fill="#64748B">web: <tspan fill="#0F172A">["Node.js", "Express", "Laravel"]</tspan>,</text>
-      <text x="16" y="75" fill="#64748B">mobile: <tspan fill="#0F172A">["Flutter", "Dart", "Android"]</tspan>,</text>
-      <text x="16" y="100" fill="#64748B">data: <tspan fill="#0F172A">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
-      <text x="16" y="125" fill="#64748B">flagship: <tspan fill="#2563EB">"TrustDoc (MCA Sem 4)"</tspan>,</text>
-      <text x="16" y="150" fill="#64748B">academic: <tspan fill="#0F172A">"MCA 8.83 | BCA 9.32"</tspan></text>
-      <text x="0" y="172" fill="#64748B">};</text>
+      <text x="16" y="24" fill="#64748B">role: <tspan fill="#A65D68">"Full Stack &amp; Mobile Architect"</tspan>,</text>
+      <text x="16" y="48" fill="#64748B">web: <tspan fill="#0F172A">["Node.js", "Express", "Laravel"]</tspan>,</text>
+      <text x="16" y="72" fill="#64748B">mobile: <tspan fill="#0F172A">["Flutter", "Dart", "Android"]</tspan>,</text>
+      <text x="16" y="96" fill="#64748B">data: <tspan fill="#0F172A">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
+      <text x="16" y="120" fill="#2563EB">flagship: <tspan fill="#1D4ED8" font-weight="600">"TrustDoc (AES-256 &amp; RSA)"</tspan>,</text>
+      <text x="16" y="144" fill="#64748B">academic: <tspan fill="#0F172A">"MCA 8.83 | BCA 9.32"</tspan>,</text>
+      <text x="16" y="168" fill="#64748B">award: <tspan fill="#A65D68">"1st Place • Code Carnival 3.0"</tspan></text>
+      <text x="0" y="190" fill="#64748B">};</text>
+      <!-- Blinking Cursor -->
+      <rect x="20" y="179" width="7" height="14" rx="1" fill="#A65D68">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite" />
+      </rect>
     </g>
   </g>
 </svg>

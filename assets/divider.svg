@@ -1,13 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 20" width="100%" role="presentation">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="100%" role="presentation">
   <defs>
     <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#C88A78" stop-opacity="0" />
       <stop offset="25%" stop-color="#C88A78" stop-opacity="0.45" />
-      <stop offset="50%" stop-color="#B76E79" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#B76E79" stop-opacity="0.9" />
       <stop offset="75%" stop-color="#C88A78" stop-opacity="0.45" />
       <stop offset="100%" stop-color="#C88A78" stop-opacity="0" />
     </linearGradient>
+    <linearGradient id="divGleam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5B2A3" stop-opacity="0" />
+      <stop offset="50%" stop-color="#E5B2A3" stop-opacity="1" />
+      <stop offset="100%" stop-color="#E5B2A3" stop-opacity="0" />
+    </linearGradient>
   </defs>
-  <rect x="40" y="9.5" width="1120" height="1.2" fill="url(#divGrad)" />
-  <polygon points="600,4 606,10 600,16 594,10" fill="#C88A78" opacity="0.85" />
+  <rect x="40" y="11.2" width="1120" height="1.5" fill="url(#divGrad)" />
+  <rect x="40" y="10.8" width="140" height="2.4" rx="1.2" fill="url(#divGleam)">
+    <animate attributeName="x" values="40;1020;40" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <polygon points="600,5 607,12 600,19 593,12" fill="#C88A78">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.5s" repeatCount="indefinite" />
+  </polygon>
 </svg>
