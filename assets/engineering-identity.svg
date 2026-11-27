@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 136" width="100%" role="img" aria-label="Engineering Identity Dashboard: 1st Place Code Carnival 3.0, 14+ Projects, 5x Hackathons, 16 Certifications, MCA 8.83, BCA 9.32">
+  <defs>
+    <linearGradient id="eid-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1020" />
+      <stop offset="100%" stop-color="#151D32" />
+    </linearGradient>
+    <linearGradient id="eid-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFBF69" />
+      <stop offset="100%" stop-color="#35D9FF" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="134" rx="16" fill="url(#eid-bg)" stroke="#232E4A" stroke-width="1.4" />
+
+  <!-- Primary Focal Spotlight Card (Wider + Amber Emphasis): 1st Place Code Carnival 3.0 -->
+  <g transform="translate(16, 14)">
+    <rect x="0" y="0" width="322" height="108" rx="13" fill="#182038" stroke="#FFBF69" stroke-opacity="0.7" stroke-width="1.5" />
+    <rect x="0" y="0" width="322" height="4" rx="2" fill="url(#eid-gold)" />
+    <rect x="18" y="18" width="136" height="20" rx="10" fill="#2A221A" stroke="#FFBF69" stroke-opacity="0.5" stroke-width="1" />
+    <text x="86" y="31.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.8" font-weight="700" fill="#FFBF69">FLAGSHIP HONOR</text>
+    <text x="18" y="64" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="20" fill="#F4F7FF">1st Place — Code Carnival 3.0</text>
+    <text x="18" y="88" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" fill="#94A3B8">Atmiya University • Oct 2026</text>
+  </g>
+
+  <!-- Node 2: 14+ Projects -->
+  <g transform="translate(354, 14)">
+    <rect x="0" y="0" width="194" height="108" rx="13" fill="#151D32" stroke="#283556" stroke-width="1.2" />
+    <rect x="16" y="0" width="60" height="3" rx="1.5" fill="#35D9FF" />
+    <text x="18" y="48" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="30" fill="#35D9FF">14+</text>
+    <text x="18" y="72" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Projects Built</text>
+    <text x="18" y="92" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" fill="#94A3B8">Web • Mobile • APIs</text>
+  </g>
+
+  <!-- Node 3: 5x Hackathons -->
+  <g transform="translate(562, 14)">
+    <rect x="0" y="0" width="194" height="108" rx="13" fill="#151D32" stroke="#283556" stroke-width="1.2" />
+    <rect x="16" y="0" width="60" height="3" rx="1.5" fill="#9B8CFF" />
+    <text x="18" y="48" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="30" fill="#9B8CFF">5×</text>
+    <text x="18" y="72" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Hackathon Sprints</text>
+    <text x="18" y="92" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" fill="#94A3B8">Designated Team Lead</text>
+  </g>
+
+  <!-- Node 4: 16 Certifications -->
+  <g transform="translate(770, 14)">
+    <rect x="0" y="0" width="194" height="108" rx="13" fill="#151D32" stroke="#283556" stroke-width="1.2" />
+    <rect x="16" y="0" width="60" height="3" rx="1.5" fill="#35D9FF" />
+    <text x="18" y="48" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="30" fill="#F4F7FF">16</text>
+    <text x="18" y="72" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#35D9FF">Certifications</text>
+    <text x="18" y="92" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" fill="#94A3B8">AI • Cloud • DB • Web</text>
+  </g>
+
+  <!-- Node 5: Academic Telemetry (MCA & BCA CGPA) -->
+  <g transform="translate(978, 14)">
+    <rect x="0" y="0" width="206" height="108" rx="13" fill="#151D32" stroke="#283556" stroke-width="1.2" />
+    <rect x="16" y="0" width="76" height="3" rx="1.5" fill="#9B8CFF" />
+    <text x="18" y="34" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#94A3B8">ACADEMIC CGPA</text>
+
+    <text x="18" y="62" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="19" fill="#F4F7FF">8.83 <tspan font-size="11.5" font-weight="600" fill="#35D9FF">MCA</tspan></text>
+    <line x1="18" y1="73" x2="188" y2="73" stroke="#25314F" stroke-width="1" />
+    <text x="18" y="94" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="19" fill="#F4F7FF">9.32 <tspan font-size="11.5" font-weight="600" fill="#FFBF69">BCA Distinction</tspan></text>
+  </g>
+</svg>

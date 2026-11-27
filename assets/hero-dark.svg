@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Hemang Lakhadiya — Full Stack Developer &amp; Mobile Architect — The Engineer's Digital HQ">
+  <defs>
+    <linearGradient id="hd-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1020" />
+      <stop offset="55%" stop-color="#11182C" />
+      <stop offset="100%" stop-color="#151D32" />
+    </linearGradient>
+    <linearGradient id="hd-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#35D9FF" />
+      <stop offset="60%" stop-color="#9B8CFF" />
+      <stop offset="100%" stop-color="#FFBF69" />
+    </linearGradient>
+    <linearGradient id="hd-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#35D9FF" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#9B8CFF" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#27324D" stop-opacity="0.9" />
+    </linearGradient>
+    <radialGradient id="hd-glow-cyan" cx="20%" cy="22%" r="48%">
+      <stop offset="0%" stop-color="#35D9FF" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#0B1020" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="hd-glow-violet" cx="84%" cy="76%" r="52%">
+      <stop offset="0%" stop-color="#9B8CFF" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#0B1020" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="hd-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E2942" stroke-width="0.8" />
+      <circle cx="0" cy="0" r="1.1" fill="#35D9FF" opacity="0.28" />
+    </pattern>
+  </defs>
+
+  <!-- Base Blueprint Frame -->
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hd-bg)" stroke="#232E4A" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hd-grid)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hd-glow-cyan)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hd-glow-violet)" />
+
+  <!-- Top Command Hairline & Circuit Corner Markers -->
+  <rect x="40" y="1" width="340" height="3" rx="1.5" fill="url(#hd-accent)" />
+  <path d="M 24 22 L 24 14 L 32 14 M 1176 298 L 1176 306 L 1168 306" fill="none" stroke="#35D9FF" stroke-width="1.5" opacity="0.55" />
+
+  <!-- Left: Monogram + HQ Eyebrow -->
+  <g transform="translate(48, 36)">
+    <!-- Hexagonal-Inspired Monogram Badge -->
+    <rect x="0" y="0" width="46" height="46" rx="12" fill="#151D32" stroke="url(#hd-accent)" stroke-width="1.8" />
+    <text x="23" y="30" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="19" fill="#F4F7FF" letter-spacing="0.8">HL</text>
+
+    <!-- HQ Status Tag -->
+    <rect x="62" y="9" width="348" height="28" rx="14" fill="#151D32" stroke="#2B395B" stroke-width="1.2" />
+    <circle cx="79" cy="23" r="4" fill="#35D9FF" />
+    <text x="92" y="27.5" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.2" font-weight="600" fill="#F4F7FF">THE ENGINEER&apos;S DIGITAL HQ <tspan fill="#35D9FF">//</tspan> <tspan fill="#9B8CFF">RAJKOT, IN</tspan></text>
+  </g>
+
+  <!-- Main Editorial Typography -->
+  <g transform="translate(48, 132)">
+    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="42" fill="#F4F7FF" letter-spacing="1.4">HEMANG LAKHADIYA</text>
+    <text x="0" y="34" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="18.5" fill="#35D9FF">Full Stack Developer <tspan fill="#9B8CFF">&amp;</tspan> Mobile Architect</text>
+    <rect x="0" y="50" width="112" height="2.5" rx="1.25" fill="url(#hd-accent)" />
+    <text x="0" y="78" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#CBD5E1">Engineering Ideas Into Secure, Scalable Digital Products.</text>
+  </g>
+
+  <!-- Bottom Identity Chips -->
+  <g transform="translate(48, 250)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5" font-weight="600">
+    <rect x="0" y="0" width="298" height="32" rx="8" fill="#151D32" stroke="#2D3B5E" stroke-width="1.1" />
+    <circle cx="16" cy="16" r="3.5" fill="#FFBF69" />
+    <text x="28" y="20" fill="#F4F7FF">Intern @ Zennaxx Technology</text>
+
+    <rect x="312" y="0" width="186" height="32" rx="8" fill="#151D32" stroke="#2D3B5E" stroke-width="1.1" />
+    <text x="328" y="20" fill="#9B8CFF">MCA <tspan fill="#F4F7FF">8.83</tspan> <tspan fill="#64748B">|</tspan> <tspan fill="#35D9FF">BCA</tspan> <tspan fill="#F4F7FF">9.32</tspan></text>
+
+    <rect x="512" y="0" width="188" height="32" rx="8" fill="#1D1B2A" stroke="#FFBF69" stroke-opacity="0.45" stroke-width="1.1" />
+    <text x="526" y="20" fill="#FFBF69">1st • Code Carnival 3.0</text>
+  </g>
+
+  <!-- Right: Code-Terminal & System Architecture Blueprint -->
+  <g transform="translate(768, 34)">
+    <!-- Subtle Circuit Topology Nodes Behind/Around Header -->
+    <line x1="-22" y1="74" x2="0" y2="74" stroke="#35D9FF" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6" />
+    <line x1="-22" y1="164" x2="0" y2="164" stroke="#9B8CFF" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.6" />
+    <circle cx="-24" cy="74" r="3.5" fill="#35D9FF" opacity="0.8" />
+    <circle cx="-24" cy="164" r="3.5" fill="#9B8CFF" opacity="0.8" />
+
+    <!-- Terminal Window -->
+    <rect x="0" y="0" width="386" height="252" rx="14" fill="#0F1526" stroke="url(#hd-border)" stroke-width="1.4" />
+    <rect x="0" y="0" width="386" height="36" rx="14" fill="#151D32" />
+    <rect x="0" y="22" width="386" height="14" fill="#151D32" />
+    <line x1="0" y1="36" x2="386" y2="36" stroke="#232E4A" stroke-width="1" />
+    <circle cx="18" cy="18" r="4.5" fill="#FF5F56" />
+    <circle cx="34" cy="18" r="4.5" fill="#FFBF69" />
+    <circle cx="50" cy="18" r="4.5" fill="#35D9FF" />
+    <text x="68" y="22" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="600" fill="#94A3B8">digital-hq.config.ts</text>
+    <rect x="316" y="9" width="56" height="18" rx="9" fill="#192540" stroke="#35D9FF" stroke-opacity="0.45" stroke-width="1" />
+    <text x="344" y="21.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.5" font-weight="700" fill="#35D9FF">READY</text>
+
+    <!-- Terminal Body -->
+    <g transform="translate(18, 60)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5">
+      <text x="0" y="0" fill="#9B8CFF" font-weight="700">export const <tspan fill="#F4F7FF">engineer</tspan> <tspan fill="#64748B">=</tspan> <tspan fill="#64748B">{</tspan></text>
+      <text x="14" y="23" fill="#94A3B8">web: <tspan fill="#F4F7FF">["React", "Node", "Laravel"]</tspan>,</text>
+      <text x="14" y="46" fill="#94A3B8">mobile: <tspan fill="#F4F7FF">["Flutter", "Dart", "Android"]</tspan>,</text>
+      <text x="14" y="69" fill="#94A3B8">data: <tspan fill="#F4F7FF">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
+      <text x="14" y="92" fill="#94A3B8">flagship: <tspan fill="#35D9FF">"TrustDoc (AES/RSA/SHA)"</tspan>,</text>
+      <text x="14" y="115" fill="#94A3B8">shipped: <tspan fill="#FFBF69">"14+ Software Systems"</tspan></text>
+      <text x="0" y="136" fill="#64748B">};</text>
+    </g>
+
+    <!-- Bottom Abstract System Architecture Strip inside Terminal -->
+    <g transform="translate(18, 208)">
+      <rect x="0" y="0" width="80" height="28" rx="7" fill="#151D32" stroke="#35D9FF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="40" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#35D9FF">CLIENT</text>
+
+      <line x1="80" y1="14" x2="94" y2="14" stroke="#64748B" stroke-width="1.5" />
+
+      <rect x="94" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#9B8CFF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="132" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#9B8CFF">API</text>
+
+      <line x1="170" y1="14" x2="184" y2="14" stroke="#64748B" stroke-width="1.5" />
+
+      <rect x="184" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#FFBF69" stroke-opacity="0.5" stroke-width="1" />
+      <text x="222" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#FFBF69">AUTH</text>
+
+      <line x1="260" y1="14" x2="274" y2="14" stroke="#64748B" stroke-width="1.5" />
+
+      <rect x="274" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#35D9FF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="312" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#F4F7FF">DATA</text>
+    </g>
+  </g>
+</svg>
