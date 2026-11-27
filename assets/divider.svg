@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="100%" role="presentation">
   <defs>
-    <linearGradient id="hq-div" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#35D9FF" stop-opacity="0" />
-      <stop offset="30%" stop-color="#35D9FF" stop-opacity="0.55" />
-      <stop offset="50%" stop-color="#9B8CFF" stop-opacity="0.9" />
-      <stop offset="70%" stop-color="#FFBF69" stop-opacity="0.55" />
-      <stop offset="100%" stop-color="#FFBF69" stop-opacity="0" />
+    <linearGradient id="dgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#37DFFF" stop-opacity="0" />
+      <stop offset="30%" stop-color="#37DFFF" stop-opacity="0.55" />
+      <stop offset="50%" stop-color="#9A86FF" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#F3C77B" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#F3C77B" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect x="40" y="7.2" width="1120" height="1.5" fill="url(#hq-div)" />
-  <polygon points="600,2 606,8 600,14 594,8" fill="#35D9FF" />
+  <rect x="40" y="7.2" width="1120" height="1.5" fill="url(#dgrad)" />
+  <polygon points="600,2 606,8 600,14 594,8" fill="#37DFFF" />
 </svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="100%" role="img" aria-label="Featured Software Systems Across Web Platforms, Mobile Utility and Algorithmic Engines">
+  <rect x="1" y="1" width="1198" height="82" rx="14" fill="#080D1A" stroke="#1F2C48" stroke-width="1.3" />
+  <g transform="translate(20, 14)">
+    <rect x="0" y="0" width="374" height="56" rx="10" fill="#111A2D" stroke="#37DFFF" stroke-opacity="0.4" stroke-width="1" />
+    <text x="16" y="24" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#37DFFF">TRACK 01 // WEB &amp; COMMERCE</text>
+    <text x="16" y="43" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#F4F7FF">Shivashine • IMS • Placement • Farmer</text>
+
+    <rect x="392" y="0" width="374" height="56" rx="10" fill="#111A2D" stroke="#9A86FF" stroke-opacity="0.4" stroke-width="1" />
+    <text x="408" y="24" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#9A86FF">TRACK 02 // MOBILE &amp; REAL-TIME</text>
+    <text x="408" y="43" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#F4F7FF">Shree Shakti Billing • EventEase</text>
+
+    <rect x="784" y="0" width="376" height="56" rx="10" fill="#111A2D" stroke="#F3C77B" stroke-opacity="0.4" stroke-width="1" />
+    <text x="800" y="24" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#F3C77B">TRACK 03 // ALGORITHMS &amp; FLEET</text>
+    <text x="800" y="43" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#F4F7FF">Timetable Engine • Taxi Service Manager</text>
+  </g>
+</svg>

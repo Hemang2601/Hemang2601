@@ -1,116 +1,109 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Hemang Lakhadiya — Full Stack Developer &amp; Mobile Architect — The Engineer's Digital HQ">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" width="100%" role="img" aria-label="Hemang Lakhadiya — Full Stack Developer and Mobile Architect — The Digital Engineering Showcase">
   <defs>
-    <linearGradient id="hl-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="hbg-l" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F8FAFF" />
-      <stop offset="55%" stop-color="#F4F7FF" />
-      <stop offset="100%" stop-color="#EBF0FF" />
+      <stop offset="100%" stop-color="#EEF3FF" />
     </linearGradient>
-    <linearGradient id="hl-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="hacc-l" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0284C7" />
-      <stop offset="60%" stop-color="#6D5DF6" />
-      <stop offset="100%" stop-color="#D97706" />
+      <stop offset="55%" stop-color="#6D5DF6" />
+      <stop offset="100%" stop-color="#B45309" />
     </linearGradient>
-    <radialGradient id="hl-glow-cyan" cx="20%" cy="22%" r="48%">
-      <stop offset="0%" stop-color="#35D9FF" stop-opacity="0.16" />
-      <stop offset="100%" stop-color="#F4F7FF" stop-opacity="0" />
+    <radialGradient id="hg1-l" cx="18%" cy="22%" r="50%">
+      <stop offset="0%" stop-color="#37DFFF" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#F8FAFF" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="hl-glow-violet" cx="84%" cy="76%" r="52%">
-      <stop offset="0%" stop-color="#9B8CFF" stop-opacity="0.16" />
-      <stop offset="100%" stop-color="#F4F7FF" stop-opacity="0" />
+    <radialGradient id="hg2-l" cx="86%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#9A86FF" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#F8FAFF" stop-opacity="0" />
     </radialGradient>
-    <pattern id="hl-grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#DDE6F8" stroke-width="0.9" />
-      <circle cx="0" cy="0" r="1.1" fill="#6D5DF6" opacity="0.22" />
+    <pattern id="hgrid-l" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#DCE5F5" stroke-width="0.9" />
+      <circle cx="0" cy="0" r="1.1" fill="#0284C7" opacity="0.26" />
     </pattern>
   </defs>
 
-  <!-- Base Blueprint Frame -->
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hl-bg)" stroke="#CBD5E1" stroke-width="1.5" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hl-grid)" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hl-glow-cyan)" />
-  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#hl-glow-violet)" />
+  <rect x="1" y="1" width="1198" height="334" rx="20" fill="url(#hbg-l)" stroke="#CBD5E1" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="334" rx="20" fill="url(#hgrid-l)" />
+  <rect x="1" y="1" width="1198" height="334" rx="20" fill="url(#hg1-l)" />
+  <rect x="1" y="1" width="1198" height="334" rx="20" fill="url(#hg2-l)" />
 
-  <!-- Top Command Hairline & Circuit Corner Markers -->
-  <rect x="40" y="1" width="340" height="3" rx="1.5" fill="url(#hl-accent)" />
-  <path d="M 24 22 L 24 14 L 32 14 M 1176 298 L 1176 306 L 1168 306" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.5" />
+  <!-- Top Spectrum Accent & Technical Corner Brackets -->
+  <rect x="44" y="1" width="360" height="3.2" rx="1.6" fill="url(#hacc-l)" />
+  <path d="M 22 28 L 22 16 L 34 16 M 1178 308 L 1178 320 L 1166 320" fill="none" stroke="#0284C7" stroke-width="1.6" opacity="0.55" />
 
-  <!-- Left: Monogram + HQ Eyebrow -->
-  <g transform="translate(48, 36)">
-    <rect x="0" y="0" width="46" height="46" rx="12" fill="#0B1020" stroke="url(#hl-accent)" stroke-width="1.8" />
-    <text x="23" y="30" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="19" fill="#F4F7FF" letter-spacing="0.8">HL</text>
+  <!-- Left Header Bar: HL Monogram + Concept Tag -->
+  <g transform="translate(46, 36)">
+    <rect x="0" y="0" width="48" height="48" rx="13" fill="#080D1A" stroke="url(#hacc-l)" stroke-width="1.8" />
+    <text x="24" y="31" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="19" fill="#F4F7FF" letter-spacing="0.8">HL</text>
 
-    <rect x="62" y="9" width="348" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2" />
-    <circle cx="79" cy="23" r="4" fill="#0284C7" />
-    <text x="92" y="27.5" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.2" font-weight="600" fill="#0B1020">THE ENGINEER&apos;S DIGITAL HQ <tspan fill="#0284C7">//</tspan> <tspan fill="#6D5DF6">RAJKOT, IN</tspan></text>
+    <rect x="64" y="10" width="396" height="28" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2" />
+    <circle cx="81" cy="24" r="4" fill="#0284C7" />
+    <text x="95" y="28.5" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="700" fill="#080D1A">DIGITAL ENGINEERING SHOWCASE <tspan fill="#0284C7">//</tspan> <tspan fill="#6D5DF6">RAJKOT, GUJARAT, INDIA</tspan></text>
   </g>
 
-  <!-- Main Editorial Typography -->
-  <g transform="translate(48, 132)">
-    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="42" fill="#0B1020" letter-spacing="1.4">HEMANG LAKHADIYA</text>
-    <text x="0" y="34" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="18.5" fill="#0284C7">Full Stack Developer <tspan fill="#6D5DF6">&amp;</tspan> Mobile Architect</text>
-    <rect x="0" y="50" width="112" height="2.5" rx="1.25" fill="url(#hl-accent)" />
-    <text x="0" y="78" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#334155">Engineering Ideas Into Secure, Scalable Digital Products.</text>
+  <!-- Main Brand Identity -->
+  <g transform="translate(46, 136)">
+    <text x="0" y="0" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="800" font-size="44" fill="#080D1A" letter-spacing="1.5">HEMANG LAKHADIYA</text>
+    <text x="0" y="36" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="19.5" fill="#0284C7">Full Stack Developer <tspan fill="#6D5DF6">&amp;</tspan> Mobile Architect</text>
+    <rect x="0" y="52" width="124" height="3" rx="1.5" fill="url(#hacc-l)" />
+    <text x="0" y="82" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="500" font-size="15.5" fill="#334155">Building Modern Web Systems, Scalable APIs &amp; Cryptographic Software Products</text>
   </g>
 
-  <!-- Bottom Identity Chips -->
-  <g transform="translate(48, 250)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5" font-weight="600">
-    <rect x="0" y="0" width="298" height="32" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
-    <circle cx="16" cy="16" r="3.5" fill="#D97706" />
-    <text x="28" y="20" fill="#0B1020">Intern @ Zennaxx Technology</text>
+  <!-- Bottom Identity Metadata Chips -->
+  <g transform="translate(46, 260)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5" font-weight="600">
+    <rect x="0" y="0" width="332" height="34" rx="9" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.1" />
+    <circle cx="16" cy="17" r="3.5" fill="#B45309" />
+    <text x="28" y="21.5" fill="#080D1A">App Full Stack Intern @ Zennaxx Technology</text>
 
-    <rect x="312" y="0" width="186" height="32" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
-    <text x="328" y="20" fill="#6D5DF6">MCA <tspan fill="#0B1020">8.83</tspan> <tspan fill="#94A3B8">|</tspan> <tspan fill="#0284C7">BCA</tspan> <tspan fill="#0B1020">9.32</tspan></text>
+    <rect x="346" y="0" width="188" height="34" rx="9" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.1" />
+    <text x="362" y="21.5" fill="#6D5DF6">MCA <tspan fill="#080D1A">8.83</tspan> <tspan fill="#334155">|</tspan> <tspan fill="#0284C7">BCA</tspan> <tspan fill="#080D1A">9.32</tspan></text>
 
-    <rect x="512" y="0" width="188" height="32" rx="8" fill="#FFFBEB" stroke="#F59E0B" stroke-opacity="0.55" stroke-width="1.1" />
-    <text x="526" y="20" fill="#B45309">1st • Code Carnival 3.0</text>
+    <rect x="548" y="0" width="174" height="34" rx="9" fill="#FFFBEB" stroke="#B45309" stroke-opacity="0.55" stroke-width="1.1" />
+    <text x="564" y="21.5" fill="#B45309">1st • Code Carnival 3.0</text>
   </g>
 
-  <!-- Right: Midnight Code-Terminal & Architecture Blueprint (High Contrast Editorial Anchor) -->
-  <g transform="translate(768, 34)">
-    <line x1="-22" y1="74" x2="0" y2="74" stroke="#0284C7" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.55" />
-    <line x1="-22" y1="164" x2="0" y2="164" stroke="#6D5DF6" stroke-width="1.2" stroke-dasharray="4 4" opacity="0.55" />
-    <circle cx="-24" cy="74" r="3.5" fill="#0284C7" opacity="0.75" />
-    <circle cx="-24" cy="164" r="3.5" fill="#6D5DF6" opacity="0.75" />
+  <!-- Right: Engineering Architecture & Terminal Showcase Card (Always Midnight Blueprint Anchor) -->
+  <g transform="translate(788, 34)">
+    <line x1="-22" y1="78" x2="0" y2="78" stroke="#0284C7" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.6" />
+    <line x1="-22" y1="186" x2="0" y2="186" stroke="#6D5DF6" stroke-width="1.3" stroke-dasharray="4 4" opacity="0.6" />
+    <circle cx="-24" cy="78" r="3.5" fill="#0284C7" />
+    <circle cx="-24" cy="186" r="3.5" fill="#6D5DF6" />
 
-    <rect x="0" y="0" width="386" height="252" rx="14" fill="#0B1020" stroke="#1E293B" stroke-width="1.4" />
-    <rect x="0" y="0" width="386" height="36" rx="14" fill="#151D32" />
-    <rect x="0" y="22" width="386" height="14" fill="#151D32" />
-    <line x1="0" y1="36" x2="386" y2="36" stroke="#232E4A" stroke-width="1" />
-    <circle cx="18" cy="18" r="4.5" fill="#FF5F56" />
-    <circle cx="34" cy="18" r="4.5" fill="#FFBF69" />
-    <circle cx="50" cy="18" r="4.5" fill="#35D9FF" />
-    <text x="68" y="22" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="600" fill="#94A3B8">digital-hq.config.ts</text>
-    <rect x="316" y="9" width="56" height="18" rx="9" fill="#192540" stroke="#35D9FF" stroke-opacity="0.45" stroke-width="1" />
-    <text x="344" y="21.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.5" font-weight="700" fill="#35D9FF">READY</text>
+    <rect x="0" y="0" width="368" height="268" rx="15" fill="#080D1A" stroke="#233252" stroke-width="1.5" />
+    <rect x="0" y="0" width="368" height="38" rx="15" fill="#111A2D" />
+    <rect x="0" y="22" width="368" height="16" fill="#111A2D" />
+    <line x1="0" y1="38" x2="368" y2="38" stroke="#233252" stroke-width="1" />
+    <circle cx="18" cy="19" r="4.5" fill="#FF5F56" />
+    <circle cx="34" cy="19" r="4.5" fill="#F3C77B" />
+    <circle cx="50" cy="19" r="4.5" fill="#37DFFF" />
+    <text x="68" y="23" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11" font-weight="600" fill="#9AA9C0">system.blueprint.ts</text>
+    <rect x="298" y="10" width="56" height="18" rx="9" fill="#182744" stroke="#37DFFF" stroke-opacity="0.45" stroke-width="1" />
+    <text x="326" y="22.5" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="9.5" font-weight="700" fill="#37DFFF">ACTIVE</text>
 
-    <g transform="translate(18, 60)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5">
-      <text x="0" y="0" fill="#9B8CFF" font-weight="700">export const <tspan fill="#F4F7FF">engineer</tspan> <tspan fill="#64748B">=</tspan> <tspan fill="#64748B">{</tspan></text>
-      <text x="14" y="23" fill="#94A3B8">web: <tspan fill="#F4F7FF">["React", "Node", "Laravel"]</tspan>,</text>
-      <text x="14" y="46" fill="#94A3B8">mobile: <tspan fill="#F4F7FF">["Flutter", "Dart", "Android"]</tspan>,</text>
-      <text x="14" y="69" fill="#94A3B8">data: <tspan fill="#F4F7FF">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
-      <text x="14" y="92" fill="#94A3B8">flagship: <tspan fill="#35D9FF">"TrustDoc (AES/RSA/SHA)"</tspan>,</text>
-      <text x="14" y="115" fill="#94A3B8">shipped: <tspan fill="#FFBF69">"14+ Software Systems"</tspan></text>
-      <text x="0" y="136" fill="#64748B">};</text>
+    <g transform="translate(18, 64)" font-family="'Cascadia Code', ui-monospace, monospace" font-size="11.5">
+      <text x="0" y="0" fill="#9A86FF" font-weight="700">const <tspan fill="#F4F7FF">engineer</tspan> <tspan fill="#9AA9C0">=</tspan> <tspan fill="#9AA9C0">{</tspan></text>
+      <text x="14" y="24" fill="#9AA9C0">web: <tspan fill="#F4F7FF">["React", "Node", "Laravel"]</tspan>,</text>
+      <text x="14" y="48" fill="#9AA9C0">mobile: <tspan fill="#F4F7FF">["Flutter", "Dart", "Android"]</tspan>,</text>
+      <text x="14" y="72" fill="#9AA9C0">data: <tspan fill="#F4F7FF">["MongoDB", "MySQL", "SQL"]</tspan>,</text>
+      <text x="14" y="96" fill="#9AA9C0">flagship: <tspan fill="#37DFFF">"TrustDoc (AES/RSA/SHA)"</tspan>,</text>
+      <text x="14" y="120" fill="#9AA9C0">impact: <tspan fill="#F3C77B">"14+ Projects • 16 Certs"</tspan></text>
+      <text x="0" y="142" fill="#9AA9C0">};</text>
     </g>
 
-    <g transform="translate(18, 208)">
-      <rect x="0" y="0" width="80" height="28" rx="7" fill="#151D32" stroke="#35D9FF" stroke-opacity="0.5" stroke-width="1" />
-      <text x="40" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#35D9FF">CLIENT</text>
-
-      <line x1="80" y1="14" x2="94" y2="14" stroke="#64748B" stroke-width="1.5" />
-
-      <rect x="94" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#9B8CFF" stroke-opacity="0.5" stroke-width="1" />
-      <text x="132" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#9B8CFF">API</text>
-
-      <line x1="170" y1="14" x2="184" y2="14" stroke="#64748B" stroke-width="1.5" />
-
-      <rect x="184" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#FFBF69" stroke-opacity="0.5" stroke-width="1" />
-      <text x="222" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#FFBF69">AUTH</text>
-
-      <line x1="260" y1="14" x2="274" y2="14" stroke="#64748B" stroke-width="1.5" />
-
-      <rect x="274" y="0" width="76" height="28" rx="7" fill="#151D32" stroke="#35D9FF" stroke-opacity="0.5" stroke-width="1" />
-      <text x="312" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#F4F7FF">DATA</text>
+    <!-- System Topology Strip -->
+    <g transform="translate(18, 222)">
+      <rect x="0" y="0" width="74" height="28" rx="7" fill="#111A2D" stroke="#37DFFF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="37" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="700" fill="#37DFFF">CLIENT</text>
+      <line x1="74" y1="14" x2="86" y2="14" stroke="#9AA9C0" stroke-width="1.4" />
+      <rect x="86" y="0" width="74" height="28" rx="7" fill="#111A2D" stroke="#9A86FF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="123" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="700" fill="#9A86FF">API</text>
+      <line x1="160" y1="14" x2="172" y2="14" stroke="#9AA9C0" stroke-width="1.4" />
+      <rect x="172" y="0" width="74" height="28" rx="7" fill="#111A2D" stroke="#F3C77B" stroke-opacity="0.5" stroke-width="1" />
+      <text x="209" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="700" fill="#F3C77B">CRYPTO</text>
+      <line x1="246" y1="14" x2="258" y2="14" stroke="#9AA9C0" stroke-width="1.4" />
+      <rect x="258" y="0" width="74" height="28" rx="7" fill="#111A2D" stroke="#37DFFF" stroke-opacity="0.5" stroke-width="1" />
+      <text x="295" y="18" text-anchor="middle" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10.2" font-weight="700" fill="#F4F7FF">DATA</text>
     </g>
   </g>
 </svg>

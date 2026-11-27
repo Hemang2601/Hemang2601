@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 136" width="100%" role="img" aria-label="Professional Impact Dashboard: 14+ Software Projects, 1st Place Code Carnival 3.0, 5x Hackathons, 16 Certifications, BCA 9.32, MCA 8.83">
+  <rect x="1" y="1" width="1198" height="134" rx="16" fill="#080D1A" stroke="#1F2C48" stroke-width="1.4" />
+  
+  <g transform="translate(16, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#37DFFF" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#37DFFF">14+</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Software Projects</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">Web • Mobile • APIs</text>
+  </g>
+  <g transform="translate(213, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#F3C77B" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#F3C77B">1st</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Code Carnival 3.0</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">Atmiya Univ Winner</text>
+  </g>
+  <g transform="translate(410, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#9A86FF" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#9A86FF">5x</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Hackathons</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">Participant &amp; Leader</text>
+  </g>
+  <g transform="translate(607, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#37DFFF" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#37DFFF">16</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">Certifications</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">AI • Cloud • Full Stack</text>
+  </g>
+  <g transform="translate(804, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#F3C77B" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#F3C77B">9.32</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">BCA CGPA</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">Atmiya • Distinction</text>
+  </g>
+  <g transform="translate(1001, 14)">
+    <rect x="0" y="0" width="184" height="108" rx="13" fill="#111A2D" stroke="#1F2C48" stroke-width="1.3" />
+    <rect x="14" y="0" width="156" height="3" rx="1.5" fill="#9A86FF" />
+    <text x="16" y="45" font-family="'Segoe UI', system-ui, sans-serif" font-weight="800" font-size="28" fill="#9A86FF">8.83</text>
+    <text x="16" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="13" fill="#F4F7FF">MCA CGPA</text>
+    <text x="16" y="90" font-family="'Cascadia Code', ui-monospace, monospace" font-size="10" fill="#9AA9C0">Marwadi University</text>
+  </g>
+</svg>
